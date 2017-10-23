@@ -40,7 +40,7 @@ h1,h2,h3,h4,h5,h6,label,p{
 }
 /*--header--*/
 .header{
-  	background-color: #27da93; 
+  	background-color: #005B7F; 
   	  padding: 0.8em 0;
 }
 .bottom-head {
@@ -254,7 +254,7 @@ i.glyphicon.glyphicon-menu-hamburger {
 	margin: 0 7px 0 10px;
 }
 .feed ul li a:hover{
-	color:#27da93;
+	color:#005B7F;
 }
 /* start tabs */
 .sap_tabs{
@@ -287,7 +287,7 @@ i.glyphicon.glyphicon-menu-hamburger {
 }
 .resp-tab-active{
 	color:#fff;	
-	background:#27da93;
+	background:#005B7F;
 }
 .resp-tab-item span{
 	font-size:1.1em;
@@ -321,7 +321,7 @@ h2.resp-accordion:hover{
 	color: #FFF;
 }
 .facts{
-	background-color:#27da93;
+	background-color:#005B7F;
 	padding:2em  1.5em;
 }
 /*----*/
@@ -422,7 +422,7 @@ ul.callbacks_tabs.callbacks1_tabs {
   	padding: 0 0 0.3em;
 }
 .caption h3 span{
-	border-bottom: 7px solid #27DA93;
+	border-bottom: 7px solid #005B7F;
 }
 .caption p{
 	color: #fff;
@@ -1013,7 +1013,7 @@ ul.nav-bottom li  a{
 	margin: 0.5em 0;
 }
 ul.nav-bottom li  a:hover{
-	color:#27da93;
+	color:#005B7F;
 }
 .amet-sed p{
 	color:#989696;
@@ -1025,7 +1025,7 @@ ul.nav-bottom li  a:hover{
 	font-size:0.9em;
 }
 .footer-class  p a{
-	color:#27da93;
+	color:#005B7F;
 	text-decoration:none;
 }
 .footer-class  p a:hover{
@@ -1153,7 +1153,7 @@ ul {
 }
 .menu ul li a:hover{
 	background: #fbfbfb;
- 	 color: #27DA93;
+ 	 color: #005B7F;
 }
 ul.cute {
   background-color: #fff;
@@ -1180,7 +1180,7 @@ ul.kid-menu li.menu-kid-left{
 .price-top h4,.price-top1 h4{
 	font-size: 1.2em;
   	font-family: 'Montserrat-Regular';
-  	color: #27da93;
+  	color: #005B7F;
   	margin: 0 0 0.5em;
 }
 select.in-drop {
