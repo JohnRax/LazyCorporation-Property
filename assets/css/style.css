@@ -70,7 +70,7 @@ p {
     margin:0;
 }
 a {
-    color: #d27e04;
+    color: #22313F;
     outline: 0;
     font-weight: bold;
     -webkit-transition: all .8s ease;
@@ -204,8 +204,8 @@ input[type="search"]::-webkit-search-decoration {
     border-color: #05AE0E;
 }
 .btn-warning{
-    color: #FDC600;
-    border-color: #FDC600;
+    color: #22313F;
+    border-color: #22313F;
 }
 .btn-danger{
     color: #FF3B30;
@@ -1025,7 +1025,8 @@ label small{
 .slider-content h2 {
     font-size: 40px; 
     margin-bottom: 20px;
-    text-transform: uppercase;color: rgba(#22313F);
+    text-transform: uppercase;
+    color:#22313F;
 font-weight: 500;
 }
 .slider-content p {
