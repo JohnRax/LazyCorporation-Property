@@ -708,7 +708,7 @@ label small{
 
 .navbar-default .navbar-nav > li > a.active:after{
 
-    background-color: #FDC600;
+    background-color: #FFFFFF;
     bottom: -24px;
     content: "";
     height: 5px;
@@ -746,8 +746,8 @@ label small{
 .nav-button {
     background-color: #c2c2c2;
     border: medium none;
-    color: #fff;
-    font-size: 16px;
+    color: #22313F;
+    font-size: 14px;
     padding: 8px 20px;
     border-radius: 2px;
     -webkit-transition: all 0.4s ease;
@@ -756,11 +756,11 @@ label small{
     transition: all 0.4s ease;
 }
 .nav-button.login{
-    background-color: #FDC600;
+    background-color: #FFFFFF;
     margin-right: 5px;
 }
 .nav-button:hover{
-    background-color: #FDC600;
+    background-color: #FFFFFF;
 
 }
 .navbar{
