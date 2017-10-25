@@ -1378,6 +1378,7 @@ Asside widgets CSS
     margin-bottom: 0
 }
 .page-title h2 {
+    padding-top: 100;
     margin: 10px 0px;
     font-size: 30px;
     font-weight: 300;
