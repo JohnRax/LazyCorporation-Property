@@ -167,7 +167,7 @@
         top: 5%;
     }
     .slider-area{
-        height:440px; 
+        height:155px; 
     }
 
     .home-area-1 { 
@@ -293,7 +293,7 @@
 }
 
 
-@media (min-width: 480px) and (max-width: 767px){
+@media (min-width: 480px) and (max-width: 770px){
 
     .welcome_text .page-title h2 {
         color: #9B9B9B;
@@ -484,11 +484,11 @@
         width: 30px;
     }
     .page-title{
-        padding-top: 50px;
+        padding-top: 350px;
     }
     .page-title h2 {
         font-size: 20px;
-        margin-top: 2px;
+        margin-top: 100px;
     }
     .page-title h5 {
         font-size: 12px;
@@ -567,7 +567,7 @@
     }
 }
 
-@media (min-width: 768px) and (max-width: 979px){
+@media (min-width: 788px) and (max-width: 979px){
 
     .header-call p span {
         margin-right: 10px;
@@ -652,7 +652,7 @@
         width: 30px;
     }
     .page-title{
-        padding-top: 50px;
+        padding-top:250px;
     }
     .page-title h2 {
         font-size: 20px;
@@ -786,4 +786,36 @@
     .proerty-th-list p { 
         padding-top: 10px; 
     }
+}
+
+@media (max-width: 1168px){
+
+    .page-title {
+        padding-top: 200px;
+       
+    }
+
+}
+@media (max-width: 966px){
+
+    .page-title {
+        padding-top: 300px;
+       
+    }
+}
+@media (max-width:764px){
+
+    .page-title {
+        padding-top: 300px;
+       
+    }
+
+}
+@media (max-width:480px){
+
+    .page-title {
+        padding-top: 700px;
+       
+    }
+
 }
