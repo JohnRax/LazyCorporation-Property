@@ -1018,7 +1018,8 @@ position: fixed;
 
 .slider-area{
     position: relative;
-    height: 500px
+    height: 700px;
+    margin-bottom: -280px;
 }
 #bg-slider .item img{
     width: 100%;
