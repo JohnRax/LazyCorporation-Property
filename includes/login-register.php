@@ -1,15 +1,4 @@
-  <div class="page-head"> 
-            <div class="container">
-                <div class="row">
-                    <div class="page-head-content">
-                        <h1 class="page-title">Home New account / Sign in </h1>               
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- End page header -->
- 
-
+<br><br><br>
         <!-- register-area -->
         <div class="register-area" style="background-color: rgb(249, 249, 249);">
             <div class="container">

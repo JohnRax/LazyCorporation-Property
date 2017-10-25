@@ -311,7 +311,7 @@ input[type="search"]::-webkit-search-decoration {
     font-weight: 600;
 }
 .search-form {
-    background-color: #337ab7;
+    background-color: #333;
     border-radius: 5px;
     padding: 20px 0;
     border: 1px solid #E6E6E6;
@@ -765,6 +765,27 @@ position: fixed;
     background-color: #FDC600;
     margin-right: 5px;
 }
+.nav-button.reg {
+    background-color: #333;
+    border: medium none;
+    color: #fff;
+    font-size: 23px;
+    padding: 8px 20px;
+    border-radius: 2px;
+    -webkit-transition: all 0.4s ease;
+    -moz-transition: all 0.4s ease;
+    -ms-transition: all 0.4s ease;
+    transition: all 0.4s ease;
+}
+.nav-button.reg.register{
+    
+    background-color: #FDC600;
+    margin-right: 5px;
+}
+.nav-button.reg:hover{
+    background-color: gray;
+
+}
 .nav-button:hover{
     background-color: #FDC600;
 
@@ -788,7 +809,7 @@ position: fixed;
     z-index:100;
     width: 100%; 
     background-image: none;
-    background-color: #337ab7;
+    background-color: #333;
     background-repeat: repeat-x;
     border-radius: 0px;
     box-shadow: none;
@@ -1036,13 +1057,13 @@ position: fixed;
 .slider-content h2 {
     font-size: 40px; 
     margin-bottom: 20px;
-    text-transform: uppercase;color: rgb(51, 122, 183);
+    text-transform: uppercase;color: #333;
     font-weight: 500;
     padding-top: 80px;
 }
 .slider-content p {
     font-size: 14px;
-    margin-bottom: 60px;
+    
     color: rgb(110, 110, 110);
 }
 
@@ -1379,13 +1400,13 @@ Asside widgets CSS
     margin-bottom: 0
 }
 .page-title h2 {
-    padding-top: 200px;
+    padding-top: 100px;
     margin: 10px 0px;
     font-size: 30px;
     font-weight: 300;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: rgb(51, 122, 183);
+    color: #333;
 }
 .page-title h2 span{
     color: #00ADEF
@@ -2826,7 +2847,7 @@ background: rgba(255, 255, 255, 0.89) none repeat scroll 0% 0%;
     color: #000;
 } 
 .footer-copy{
-    background: rgb(51, 122, 183) none repeat scroll 0% 0%;
+    background: #333 none repeat scroll 0% 0%;
     border-top: 0.051px solid rgba(162, 162, 162, 0.46);
     padding-bottom: 0px;
     padding-bottom: 7px;

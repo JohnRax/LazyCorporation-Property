@@ -15,10 +15,12 @@
 
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse yamm" id="navigation">
-                    <div class="button navbar-right">
-                        <button class="navbar-btn nav-button wow bounceInRight login" onclick=" window.open('index.php?source=loginandregister')" data-wow-delay="0.45s">JOIN US!</button>
-                        <button class="navbar-btn nav-button wow fadeInRight" onclick=" window.open('index.php?source=propertyadvertise')" data-wow-delay="0.48s">ADVERTISE MY PROPERTY</button>
-                    </div>
+                    
+                      <div class="button navbar-right">
+                          <button class="navbar-btn nav-button wow bounceInRight login" onclick=" window.open('index.php?source=loginandregister')" data-wow-delay="0.45s">LOGIN</button>
+                          
+                      </div>
+                   
                     <ul class="main-nav nav navbar-nav navbar-right">
                       
 
