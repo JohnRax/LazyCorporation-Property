@@ -784,6 +784,9 @@ position: fixed;
     padding-top: 15px
 }
 .navbar-default {
+    position: fixed;
+    z-index:100;
+    width: 100%; 
     background-image: none;
     background-color: #337ab7;
     background-repeat: repeat-x;
@@ -1015,7 +1018,7 @@ position: fixed;
 
 .slider-area{
     position: relative;
-    height: 300px
+    height: 500px
 }
 #bg-slider .item img{
     width: 100%;

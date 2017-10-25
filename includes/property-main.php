@@ -1,5 +1,4 @@
-
-
+<br><br><br>
         <!-- property area -->
         <div class="properties-area recent-property" style="background-color: #FFF;">
             <div class="container">  
