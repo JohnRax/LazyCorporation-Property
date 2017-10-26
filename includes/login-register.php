@@ -1,5 +1,10 @@
 <br><br><br>
         <!-- register-area -->
+        <script
+  src="https://code.jquery.com/jquery-3.2.1.min.js"
+  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+  crossorigin="anonymous"></script>
+  
         <div class="register-area" style="background-color: rgb(249, 249, 249);">
             <div class="container">
 
@@ -7,7 +12,24 @@
                     <div class="box-for overflow">
                         <div class="col-md-12 col-xs-12 register-blocks">
                             <h2>New account : </h2> 
-                            <form action="" method="post">
+                           
+                            <script type="text/javascript">
+                                $(document).ready(function(){
+                                    $("#usertype").change(function(){
+                                        $("#show").html("awefawe");
+                                    });
+                                });
+                            </script>
+
+                             <div class="form-group">
+                                <select id="usertype" class="form-control">
+                                    <option class="form-control" value="agent">Agent</option>
+                                    <option class="form-control" value="landlord">Landlord</option>
+                                    <option class="form-control"  value="buyer">Buyer</option>
+                                </select>
+                            </div>
+
+                           <form id="show" action="" method="post">
                                 <div class="form-group">
                                     <label for="name">Name</label>
                                     <input type="text" class="form-control" id="name">
@@ -24,6 +46,8 @@
                                     <button type="submit" class="btn btn-default">Register</button>
                                 </div>
                             </form>
+
+
                         </div>
                     </div>
                 </div>
