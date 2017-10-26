@@ -18,7 +18,10 @@
                                     $("#usertype").change(function(){
                                         var typevalue=$("#usertype").val();                                       
                                         switch (typevalue) 
-                                        {
+                                        {   
+                                            case 'disabled':
+                                                $("#show").load("ajaxfiles/register-disabled.html");
+                                                break;
                                             case 'agent':
                                                $("#show").load("ajaxfiles/register-agent.html");
                                                 break;
@@ -38,31 +41,23 @@
 
                              <div class="form-group">
                                 <select id="usertype" class="form-control">
+                                    <option class="form-control" selected disabled value="disabled">Select Account Type</option>
                                     <option class="form-control" value="agent">Agent</option>
                                     <option class="form-control" value="landlord">Landlord</option>
                                     <option class="form-control"  value="buyer">Buyer</option>
                                 </select>
                             </div>
 
-                           <form id="show" action="" method="post">                               
+                            <form id="show" action="" method="post">                               
                                 <div class="form-group">
-                                    <h2>AGENT REGISTRATION</h2>
+                                     
                                     <br>
-                                    <label for="name">Name</label>
-                                    <input type="text" class="form-control" id="name">
+                                    
                                 </div>
-                                <div class="form-group">
-                                    <label for="email">Email</label>
-                                    <input type="text" class="form-control" id="email">
-                                </div>
-                                <div class="form-group">
-                                    <label for="password">Password</label>
-                                    <input type="password" class="form-control" id="password">
-                                </div>
-                                <div class="text-center">
-                                    <button type="submit" class="btn btn-default">Register</button>
-                                </div>
+                               
                             </form>
+
+
 
 
                         </div>

@@ -1,5 +1,5 @@
 
-
+<br><br><br>
         <div class="page-head"> 
             <div class="container">
                 <div class="row">
@@ -31,16 +31,16 @@
                                     </div> 
 
                                     <ul id="image-gallery" class="gallery list-unstyled cS-hidden">
-                                        <li data-thumb="assets/img/property-1/property1.jpg"> 
+                                        <li data-thumb="./assets/img/property-1/property1.jpg"> 
                                             <img src="assets/img/property-1/property1.jpg" />
                                         </li>
-                                        <li data-thumb="assets/img/property-1/property2.jpg"> 
+                                        <li data-thumb="./assets/img/property-1/property2.jpg"> 
                                             <img src="assets/img/property-1/property3.jpg" />
                                         </li>
-                                        <li data-thumb="assets/img/property-1/property3.jpg"> 
+                                        <li data-thumb="./assets/img/property-1/property3.jpg"> 
                                             <img src="assets/img/property-1/property3.jpg" />
                                         </li>
-                                        <li data-thumb="assets/img/property-1/property4.jpg"> 
+                                        <li data-thumb="./assets/img/property-1/property4.jpg"> 
                                             <img src="assets/img/property-1/property4.jpg" />
                                         </li>                                         
                                     </ul>
