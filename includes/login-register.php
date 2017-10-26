@@ -16,7 +16,22 @@
                             <script type="text/javascript">
                                 $(document).ready(function(){
                                     $("#usertype").change(function(){
-                                        $("#show").html("awefawe");
+                                        var typevalue=$("#usertype").val();                                       
+                                        switch (typevalue) 
+                                        {
+                                            case 'agent':
+                                               $("#show").load("ajaxfiles/register-agent.html");
+                                                break;
+                                            case 'landlord':
+                                               $("#show").load("ajaxfiles/register-landlord.html");
+                                                break;
+                                            case 'buyer':
+                                               $("#show").load("ajaxfiles/register-buyer.html");
+                                                break;
+                                            default:
+                                               
+                                                 break;
+                                        } 
                                     });
                                 });
                             </script>
@@ -29,8 +44,10 @@
                                 </select>
                             </div>
 
-                           <form id="show" action="" method="post">
+                           <form id="show" action="" method="post">                               
                                 <div class="form-group">
+                                    <h2>AGENT REGISTRATION</h2>
+                                    <br>
                                     <label for="name">Name</label>
                                     <input type="text" class="form-control" id="name">
                                 </div>
