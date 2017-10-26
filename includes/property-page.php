@@ -1,6 +1,6 @@
- 
 
- <div class="page-head"> 
+
+        <div class="page-head"> 
             <div class="container">
                 <div class="row">
                     <div class="page-head-content">
@@ -18,7 +18,7 @@
                 <div class="clearfix padding-top-40" >
 
                     <div class="col-md-8 single-property-content prp-style-1 ">
-                        <div class="row">
+                     <div class="row">
                             <div class="light-slide-item">            
                                 <div class="clearfix">
                                     <div class="favorite-and-print">
@@ -47,7 +47,6 @@
                                 </div>
                             </div>
                         </div>
-
                         <div class="single-property-wrapper">
                             <div class="single-property-header">                                          
                                 <h1 class="property-title pull-left">Villa in Coral Gables</h1>
@@ -520,3 +519,9 @@
 
             </div>
         </div>
+
+
+        
+        
+       
+
