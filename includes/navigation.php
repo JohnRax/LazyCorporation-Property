@@ -17,7 +17,7 @@
                 <div class="collapse navbar-collapse yamm" id="navigation">
                     
                       <div class="button navbar-right">
-                          <button class="navbar-btn nav-button wow bounceInRight login" onclick=" window.open('index.php?source=loginandregister')" data-wow-delay="0.45s">LOGIN</button>
+                          <button class="navbar-btn nav-button wow bounceInRight login" onclick=" window.open('index.php?source=loginandregister')" data-wow-delay="0.30s">POST PROPERTY NOW!</button>
                           
                       </div>
                    
@@ -32,10 +32,7 @@
                              <a href="index.php?source=property-forrent" class="dropdown-toggle" data-toggle="ddropdown" data-hover="dropdown" data-delay="200">FOR RENT</a>
                       </li>
                    
-                       <li class="dropdown ymm-sw " data-wow-delay="0.1s">
-                            <a href="index.php?source=property-foreclosure" class="dropdown-toggle" data-toggle="ddropdown" data-hover="dropdown" data-delay="200">FORECLOSURE</a>
-                           
-                      </li>
+                    
                       <li class="dropdown ymm-sw " data-wow-delay="0.1s">
                             <a href="index.php?source=property-newdevelopment" class="dropdown-toggle" data-toggle="ddropdown" data-hover="dropdown" data-delay="200">NEW DEVELOPMENT</a>
                            

@@ -438,7 +438,26 @@ input[type="search"]::-webkit-search-decoration {
 .input-group .form-control:last-child, .input-group-addon:last-child, .input-group-btn:last-child > .btn, .input-group-btn:last-child > .dropdown-toggle, .input-group-btn:first-child > .btn:not(:first-child) {
     border-left: 0 none;
 }
-.search-btn ,.toggle-btn{
+.search-btn{
+    
+    color: #333;
+    font-size: 16px;
+    border: 1px solid #EAE9E9;
+    width: 40px;
+    height: 40px;
+    color: #FFF;
+    transition: all 0.3s ease 0s; 
+    padding: 0px;
+     margin-left:300px;
+    
+  
+
+}
+.keyword{
+
+    width: 50%;
+}
+.toggle-btn{
     
     color: #333;
     font-size: 16px;
@@ -449,7 +468,10 @@ input[type="search"]::-webkit-search-decoration {
     transition: all 0.3s ease 0s; 
     padding: 0px;
 
+    
+
 }
+
 .form-control[disabled], .form-control[readonly], fieldset[disabled] .form-control {
     background-color: #EEEEEE;
     color: #999999;
@@ -692,8 +714,8 @@ label small{
 .navbar-default .navbar-nav > li > a{
     position: fixed;
     color: #eee;
-    font-size: 16px;
-    font-weight: 400;
+    font-size: 20px;
+    font-weight: 430;
     text-transform: capitalize;
     position: relative;
 
@@ -752,8 +774,9 @@ position: fixed;
 .nav-button {
     background-color: #c2c2c2;
     border: medium none;
-    color: #fff;
-    font-size: 16px;
+    color: #333;
+    font-size: 20px;
+    font-weight: 400;
     padding: 8px 20px;
     border-radius: 2px;
     -webkit-transition: all 0.4s ease;
@@ -764,6 +787,7 @@ position: fixed;
 .nav-button.login{
     background-color: #FDC600;
     margin-right: 5px;
+    margin-top: 2px;
 }
 .nav-button.reg {
     background-color: #333;
@@ -2503,7 +2527,7 @@ count-area
 
 }
 .border-btn:hover,.border-btn:focus{
-
+        color: #fdc600;
 }
 .item-entry a {
     color: #000;
@@ -2643,7 +2667,8 @@ padding-bottom: 15px;
 .large-search .search-form .form-inline .form-control, .form-inline .form-control,
 .large-search .search-form .bootstrap-select button.dropdown-toggle ,
 .large-search .search-form .bootstrap-select:not([class*="col-"]):not([class*="form-control"]):not(.input-group-btn){
-    width:100%;
+    width: 227.5%;
+   
 }
 .large-search .search-row{
     overflow: hidden;

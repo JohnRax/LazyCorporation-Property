@@ -5,20 +5,36 @@
                
                             
                        <h2>property Searching Just Got So Easy</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi deserunt deleniti, ullam commodi sit ipsam laboriosam velit adipisci quibusdam aliquam teneturo!</p>
-                          <div class="button navbar-center">
-                         <button class="navbar-btn nav-button wow bounceInUp reg" onclick=" window.open('index.php?source=loginandregister')">REGISTER NOW!</button>
-                      </div>
+                                        
                       <br>
                     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 col-sm-12">
                        
                         <div class="search-form wow pulse" data-wow-delay="0.8s">
 
                             <form action="" class=" form-inline">
-                                <button class="btn  toggle-btn" type="button"><i class="fa fa-bars"></i></button>
-
+                                
+                                
+                                
+                              <button class="btn  toggle-btn" type="button"><i class="fa fa-bars"></i></button>
+                              
                                 <div class="form-group">
                                     <input type="text" class="form-control" placeholder="Key word">
+                                </div>
+                              <button class="btn search-btn prop-btm-search" type="submit"><i class="fa fa-search"></i></button>  
+
+                                <div style="display: none;" class="search-toggle">
+
+                                    <div class="search-row">   
+                                    <div class="form-group">                               
+                                    <select id="lunchBegins" class="selectpicker" data-live-search="true" data-live-search-style="begins" title="Select your city">
+
+                                        <option>New york, CA</option>
+                                        <option>Paris</option>
+                                        <option>Casablanca</option>
+                                        <option>Tokyo</option>
+                                        <option>Marraekch</option>
+                                        <option>kyoto , shibua</option>
+                                    </select>
                                 </div>
                                 <div class="form-group">                                   
                                     <select id="lunchBegins" class="selectpicker" data-live-search="true" data-live-search-style="begins" title="Select your city">
@@ -31,21 +47,17 @@
                                         <option>kyoto , shibua</option>
                                     </select>
                                 </div>
+
                                 <div class="form-group">                                     
                                     <select id="basic" class="selectpicker show-tick form-control">
                                         <option> -Status- </option>
-                                        <option>Rent </option>
+                                        <option>Rent</option>
                                         <option>Boy</option>
                                         <option>used</option>  
 
                                     </select>
                                 </div>
-                                <button class="btn search-btn" type="submit"><i class="fa fa-search"></i></button>
-
-                                <div style="display: none;" class="search-toggle">
-
-                                    <div class="search-row">   
-
+                                <br>
                                         <div class="form-group mar-r-20">
                                             <label for="price-range">Price range ($):</label>
                                             <input type="text" class="span2" value="" data-slider-min="0" 
@@ -182,11 +194,12 @@
                                         <br>
                                         <hr>
                                     </div>                             
-                                    <button class="btn search-btn prop-btm-sheaerch" type="submit"><i class="fa fa-search"></i></button>  
+                                    
                                 </div>                    
 
                             </form>
                         </div>
+
                     </div>
                 </div>
             </div>
