@@ -4,7 +4,7 @@
                     
                
                             
-                       <h2>property Searching Just Got So Easy</h2>
+                       <h2>Bringing You Closer To Your Dream Home</h2>
                                         
                       <br>
                     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 col-sm-12">
@@ -16,7 +16,7 @@
                                 
                                 
                               <button class="btn  toggle-btn" type="button"><i class="fa fa-bars"></i></button>
-                              
+
                                 <div class="form-group">
                                     <input type="text" class="form-control" placeholder="Key word">
                                 </div>
@@ -26,7 +26,7 @@
 
                                     <div class="search-row">   
                                     <div class="form-group">                               
-                                    <select id="lunchBegins" class="selectpicker" data-live-search="true" data-live-search-style="begins" title="Select your city">
+                                    <select id="lunchBegins" class="selectpicker" data-live-search="true" data-live-search-style="begins" title="Select Country">
 
                                         <option>New york, CA</option>
                                         <option>Paris</option>
@@ -37,7 +37,7 @@
                                     </select>
                                 </div>
                                 <div class="form-group">                                   
-                                    <select id="lunchBegins" class="selectpicker" data-live-search="true" data-live-search-style="begins" title="Select your city">
+                                    <select id="lunchBegins" class="selectpicker" data-live-search="true" data-live-search-style="begins" title="Select City">
 
                                         <option>New york, CA</option>
                                         <option>Paris</option>
@@ -49,11 +49,10 @@
                                 </div>
 
                                 <div class="form-group">                                     
-                                    <select id="basic" class="selectpicker show-tick form-control">
-                                        <option> -Status- </option>
-                                        <option>Rent</option>
-                                        <option>Boy</option>
-                                        <option>used</option>  
+                                    <select id="basic" class="selectpicker show-tick form-control" title="Select Status">                                 
+                                        <option>For Rent</option>
+                                        <option>For Sale</option>
+                                        <option>New Development</option>  
 
                                     </select>
                                 </div>

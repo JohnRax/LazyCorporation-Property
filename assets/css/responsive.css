@@ -63,9 +63,17 @@
     .slider-content {
         top: 10%;
     }
-    .search-btn, .toggle-btn { 
+    .search-btn, { 
         margin-bottom: 15px;
+       
     }
+
+    .toggle-btn {
+        margin-bottom: 15px;
+      
+    }
+
+
     .proerty-th {
         margin-left: 0px;
     }
@@ -382,9 +390,11 @@
         color: #777;
         border-top: 1px solid #EAEAEA;
         padding: 0px;
+        margin-left: 300px
     }
     .search-btn, .toggle-btn {
         margin-bottom: 15px;
+          margin-left: 30px
     }
     .prop-btm-sheaerch{
         display: block;
@@ -656,7 +666,7 @@
     }
     .page-title h2 {
         font-size: 20px;
-        margin-top: 2px;
+        margin-top: -50px;
     }
     .page-title h5 {
         font-size: 12px;
@@ -789,6 +799,18 @@
 }
 
 
+@media (max-width: 769px){
+ .form-inline .form-control, .form-inline .form-control {
+        width: 100%;
+    }
+}
+@media (max-width: 479px){
+ .form-inline .form-control, .form-inline .form-control {
+        width: 100%;
+    }
+}
+
+
 @media (max-width: 1168px){
 
     .page-title {
@@ -800,7 +822,7 @@
 @media (max-width: 966px){
 
     .page-title {
-        padding-top: 300px;
+        padding-top: -50px;
        
     }
 }
@@ -817,6 +839,11 @@
     .page-title {
         padding-top: 700px;
        
+    }
+    .search-btn
+    {
+        margin-bottom: 15px;
+        margin-left: 2px;
     }
 
 }
