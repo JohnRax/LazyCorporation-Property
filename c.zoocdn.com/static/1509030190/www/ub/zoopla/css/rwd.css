@@ -1008,7 +1008,7 @@ button.button--major {width: 100%}
 
 .text-input--long {min-width: 15em}
 
-.flatpickr-calendar {-webkit-box-shadow: 1px 0 0 #901fbf,-1px 0 0 #901fbf,0 1px 0 #901fbf,0 -1px 0 transparent,0 3px 13px rgba(0,0,0,.1);box-shadow:1px 0 0 #901fbf,-1px 0 0 #901fbf,0 1px 0 #901fbf,0 -1px 0 transparent,0 3px 13px rgba(0,0,0,.1)}
+.flatpickr-calendar {-webkit-box-shadow: 1px 0 0 #14749c,-1px 0 0 #14749c,0 1px 0 #14749c,0 -1px 0 transparent,0 3px 13px rgba(0,0,0,.1);box-shadow:1px 0 0 #14749c,-1px 0 0 #14749c,0 1px 0 #14749c,0 -1px 0 transparent,0 3px 13px rgba(0,0,0,.1)}
 
    .flatpickr-calendar:after,.flatpickr-calendar:before {content: none}
 
@@ -1037,13 +1037,13 @@ button.button--major {width: 100%}
    max-width: 40px
 }
 
-   .flatpickr-day.today {border-color: #901fbf}
+   .flatpickr-day.today {border-color: #14749c}
 
-       .flatpickr-day.today:focus,.flatpickr-day.today:hover {border-color: #901fbf;background:#901fbf}
+       .flatpickr-day.today:focus,.flatpickr-day.today:hover {border-color: #14749c;background:#14749c}
 
    .flatpickr-day.selected {border-color: #33AABB;background:#33AABB}
 
-       .flatpickr-day.selected:focus,.flatpickr-day.selected:hover {border-color: #901fbf;background:#901fbf}
+       .flatpickr-day.selected:focus,.flatpickr-day.selected:hover {border-color: #14749c;background:#14749c}
 
 .flatpickr-mobile {
    border: 1px solid #d2d2dc;
@@ -3039,7 +3039,7 @@ to {opacity: 1}
    .moving-ob-switcher__actions-link {
        display: block;
        height: 4em;
-       background-color: #901fbf;
+       background-color: #14749c;
        padding: 1em
     }
 
@@ -3616,7 +3616,7 @@ to {opacity: 1}
 
    .mp-filters__toggle-button {
        background-color: transparent;
-       border: 1px solid #901fbf;
+       border: 1px solid #14749c;
        border-radius: 4px;
        color: #fff;
        padding: .5em 1em;
@@ -3624,10 +3624,10 @@ to {opacity: 1}
        transition: background-color .25s ease-in
     }
 
-       .mp-filters__toggle-button:focus,.mp-filters__toggle-button:hover {background-color: #901fbf;outline:none}
+       .mp-filters__toggle-button:focus,.mp-filters__toggle-button:hover {background-color: #14749c;outline:none}
 
    .mp-filters__toggle-button--active {
-       background: #901fbf;
+       background: #14749c;
        -webkit-transition: background-color .25s ease-in,border-color .25s ease-in;
        transition: background-color .25s ease-in,border-color .25s ease-in
     }
@@ -4161,7 +4161,7 @@ to {
        .mp-task .mp-action__item:last-child {border-right: none}
 
    .mp-task .mp-action__item__detail {
-       color: #901fbf;
+       color: #14749c;
        font: normal 300 1.5rem/1.25 Lato,Arial,sans-serif;
        font-size: 1rem
     }
@@ -4282,7 +4282,7 @@ to {
            top: 0;
            bottom: 0;
            right: 50%;
-           background: #901fbf url(../../../../../1501061631/www/ub/zoopla/images/rwd/move/move-background-opacity.png);
+           background: #14749c url(../../../../../1501061631/www/ub/zoopla/images/rwd/move/move-background-opacity.png);
            background-size: 140px
         }
 
@@ -4709,7 +4709,7 @@ to {
    .mp-handover-wrap+.moving-articles__heading {margin-top: -1rem}
 
    .moving-banner {
-       background: url(../../../../../1498638531/www/ub/zoopla/images/rwd/move/move-background-op.png) #901fbf repeat;
+       background: url(../../../../../1498638531/www/ub/zoopla/images/rwd/move/move-background-op.png) #14749c repeat;
        background-size: 140px;
        color: #fff
     }
@@ -4989,7 +4989,7 @@ to {opacity: 1}
        min-height: 110px
     }
 
-   .mp-handover__grid-button--active,.mp-handover__grid-button:hover {background-color: #901fbf;color:#fff}
+   .mp-handover__grid-button--active,.mp-handover__grid-button:hover {background-color: #14749c;color:#fff}
 
    .mp-handover__grid-button span {pointer-events: none}
 
@@ -5120,7 +5120,7 @@ to {-webkit-transform: translateX(750%);transform:translateX(750%)}
    .pp-game__container {padding: 2em 0;background-color:#fff}
 
    .pp-game__container--shaded {
-       background: linear-gradient(120deg,#901fbf,#901fbf 50%,#33AABB  0,#33AABB );
+       background: linear-gradient(120deg,#14749c,#14749c 50%,#33AABB  0,#33AABB );
        background-attachment: fixed;
        background-size: 100% 100vh;
        color: #fff
