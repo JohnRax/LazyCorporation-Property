@@ -2,7 +2,7 @@ runtime: php55
 api_version: 1
 
 runtime_config:
-  document_root: Property
+  document_root: www.lazzyproperties.com
 
 handlers:
 # Serve images as static resources.
@@ -20,6 +20,9 @@ handlers:
 
 - url: /(.+)
   script: \1
+  
+- url: /c.zoocdn.com/static
+  static_dir: static
 
 - url: /.*
   script: index.php
