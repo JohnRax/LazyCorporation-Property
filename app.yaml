@@ -1,6 +1,9 @@
 runtime: php55
 api_version: 1
 
+runtime_config:
+  document_root: Property
+
 handlers:
 # Serve images as static resources.
 - url: /(.*\.(htm$|html$|css$|js$))
