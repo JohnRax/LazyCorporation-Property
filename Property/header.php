@@ -7,7 +7,7 @@
 
     
     <meta charset="utf-8" />
-    <title>Zoopla &gt; Search Property to Buy, Rent, House Prices, Estate Agents</title>
+    <title>Lazzy Properties</title>
     <script type="application/ld+json">{"logo":"https://c.zoocdn.com/static/1509030237/www/_b/images/logo-alt.png","@context":"https://schema.org","url":"https://www.zoopla.co.uk/","name":"Zoopla","@type":"Organization"}</script>
 <script type="application/ld+json">{"alternateName":"Zoopla Property Search","potentialAction":{"target":"https://www.zoopla.co.uk/search/?q={search_term_string}","query-input":"required name=search_term_string","@type":"SearchAction"},"@context":"https://schema.org","url":"https://www.zoopla.co.uk/","name":"Zoopla","@type":"WebSite"}</script>
 
@@ -229,7 +229,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <span class="visually-hidden" itemprop="name">
                 Zoopla
             </span>
-            <img aria-hidden="true" class="icon--logo" src="https://c.zoocdn.com/static/1509030237/www/_b/images/logo.svg" alt="">
+            <img aria-hidden="true" class="icon--logo" src="bordered.png" alt="">
         </a>
                                                              
 

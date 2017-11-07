@@ -2,7 +2,7 @@
    header
    ========================================================================== */
 .header-main {
-    background: #6a148e;
+    background: #33AABB;
 }
 
 .header-sub {
@@ -111,7 +111,7 @@ footer {
 }
 
 .footer-bottom {
-    background: #6a148e;
+    background: #33AABB;
     color: #fff;
     clear: both;
     padding: 2em 0 1em;
@@ -172,7 +172,7 @@ footer {
 .btn-primary,
 .btn-primary:visited {
     color: #ffffff;
-    background-color: #6a148e;
+    background-color: #33AABB;
     background-image: none;
     border-width: 2px;
     border-style: solid;
@@ -240,8 +240,8 @@ footer {
 .btn-select-dropdown:focus,
 .btn-select-dropdown:active {
     background: #fff;
-    border-color: #6a148e;
-    color: #6a148e;
+    border-color: #33AABB;
+    color: #33AABB;
 }
 
 .listing-view-link,
@@ -259,21 +259,21 @@ footer {
 .listing-view-link:focus,
 .listing-view-link:active {
     color: #fff;
-    background: #6a148e;
+    background: #33AABB;
 }
 
 .btn-primary.btn-primary-ghost {
-    border-color: #6a148e;
+    border-color: #33AABB;
     background: transparent;
     border-width: 1px !important;
-    color: #6a148e;
+    color: #33AABB;
     font-weight: normal;
 }
 
 .btn-primary.btn-primary-ghost:hover,
 .btn-primary.btn-primary-ghost:focus {
-    border-color: #6a148e;
-    background: #6a148e;
+    border-color: #33AABB;
+    background: #33AABB;
     color: #fff;
 }
 
@@ -318,7 +318,7 @@ a.text-price:visited {
     color: #d64521 !important;
 }
 .bg-primary {
-    background-color: #6a148e;
+    background-color: #33AABB;
 }
 .bg-highlight {
     background-color: #e6efff;
@@ -332,13 +332,13 @@ a.text-price:visited {
     background-color: #d64521;
 }
 .brand-primary{
-    color:#6a148e;
+    color:#33AABB;
 }
 .buyers,.for-sale,.price{
     color:#f05a28;
 }
 .buyersb{
-    background:#6a148e;
+    background:#33AABB;
 }
 .nofontcolor{
     color:#000;
@@ -358,26 +358,26 @@ a.text-price:visited {
     background:#b2d235;
 }
 .agents,.rent,.to-rent{
-    color:#6a148e !important;
+    color:#33AABB !important;
 }
 .agentsb{
     background:#4dbca1;
 }
 .zestimate,
 .price.zestimate {
-    color:#6a148e !important;
+    color:#33AABB !important;
 }
 .zestimateb{
-    background:#6a148e;
+    background:#33AABB;
 }
 .zindex{
-    color:#6a148e;
+    color:#33AABB;
 }
 .zindex a:link, .zindex a:active{
-    color: #6a148e;
+    color: #33AABB;
 }
 .zindex a:visited{
-    color:#6a148e;
+    color:#33AABB;
 }
 .zindex a:hover{
     color: #6C941E;
@@ -401,7 +401,7 @@ a.text-price:visited {
     width: 0;
     bottom: 0;
     position: absolute;
-    background: #6a148e;
+    background: #33AABB;
     transition: 0.2s ease all;
     -moz-transition: 0.2s ease all;
     -webkit-transition: 0.2s ease all;
@@ -604,10 +604,10 @@ span.flag-dark {
     font-weight:normal;
 }
 #mcms h1 {
-    color:#6a148e;
+    color:#33AABB;
 }
 #mcms h2 {
-    color:#6a148e;
+    color:#33AABB;
 }
 #mcms .cms-article h2 {
     color:#3b3a3c;
@@ -616,10 +616,10 @@ span.flag-dark {
 .cms-landing-feature h2 a:visited,
 .cms-category-feature h2 a,
 .cms-category-feature h2 a:visited {
-    color:#6a148e;
+    color:#33AABB;
 }
 .cms-document-list h3 {
-    color:#6a148e;
+    color:#33AABB;
 }
 #mcms .sidebar h4 {
     color:#3b3a3c;
@@ -633,7 +633,7 @@ span.flag-dark {
 /*#mcms a,
 #mcms a:visited,
 #mcms a:hover {
-    color: #6a148e !important;
+    color: #33AABB !important;
 }*/
 .cms-tags,
 .cms-share {
@@ -641,16 +641,16 @@ span.flag-dark {
     border-top:1px solid #d7d7d7;
 }
 .cms-landing-feature span.category {
-    background-color:#6a148e;
+    background-color:#33AABB;
 }
 .cms-document-list li .child-image {
-    border-bottom-color: #6a148e !important;
+    border-bottom-color: #33AABB !important;
 }
 #mcms #breadcrumbs {
     color: #3b3a3c;
 }
 #mcms #breadcrumbs a {
-    color: #6a148e;
+    color: #33AABB;
 }
 #mcms #breadcrumbs a.current {
     color: #3b3a3c;
@@ -659,13 +659,13 @@ span.flag-dark {
 #mcms .ui-tabs-sidebar li a:visited,
 #mcms .ui-tabs-sidebar li.ui-tabs-active a,
 #mcms .ui-tabs-sidebar li.ui-tabs-active a:visited {
-    color: #6a148e;
+    color: #33AABB;
 }
 #mcms .article-list>li>a,
 #mcms .article-list>li>a:visited,
 .sidebar .categories>li>a:visited,
 .cms-document-list h3 a:visited {
-    color: #6a148e!important;
+    color: #33AABB!important;
 }
 
 /* ==========================================================================
@@ -727,15 +727,15 @@ table.agent-stats tr td a {
 #bhome .btn-primary-ghost:visited,
 #bhome .btn-primary-ghost:hover,
 #bhome .btn-primary-ghost:active {
-    color: #6a148e;
-    border: 2px solid #6a148e;
+    color: #33AABB;
+    border: 2px solid #33AABB;
     font-family: 'Droid Sans', sans-serif;
     font-size: 16px;
     font-weight: normal;
 }
 #bhome .btn-primary-ghost:hover,
 #bhome .btn-primary-ghost:active {
-    background: #6a148e;
+    background: #33AABB;
     color: #fff;
 }
 
@@ -828,7 +828,7 @@ table.agent-stats tr td a {
     line-height: 140%;
 }
 .search + .box a {
-    color: #6a148e;
+    color: #33AABB;
 }
 .chzn-single:before {
     background-color: #eaecee;
@@ -884,7 +884,7 @@ table.agent-stats tr td a {
     color: #3b3a3c;
 }
 .search .chzn-container .chzn-results .highlighted:before {
-    background: #6a148e;
+    background: #33AABB;
     content: '';
     height: 100%;
     left: 0;
@@ -1012,7 +1012,7 @@ a.search-advanced-toggle {
 }
 
 .search-filters-propertytype.is-checked {
-    color: #6a148e;
+    color: #33AABB;
 }
 
 .is-new-refine .search-refine-location-autocomplete span.delete_autocomplete_suggestion,
@@ -1021,7 +1021,7 @@ a.search-advanced-toggle {
 }
 
 .is-new-refine .search-refine-location-autocomplete .ui-autocomplete .ui-state-focus {
-    background: #6a148e;
+    background: #33AABB;
 }
 
 .is-new-refine .search-refine-location-autocomplete .ui-autocomplete .ui-state-focus a,
@@ -1034,14 +1034,14 @@ a.search-advanced-toggle {
 
 /* CVSP */
 .browse-estimate-value {
-    color: #6a148e;
+    color: #33AABB;
     font-family: 'Droid Sans', sans-serif;
 }
 .browse-estimate-value-sub {
-    color: #6a148e;
+    color: #33AABB;
 }
 .nearest-properties-listings-link {
-    color: #6a148e;
+    color: #33AABB;
 }
 
 .overseas-country-activities .section-header,
@@ -1070,15 +1070,15 @@ a.search-advanced-toggle {
   color: #fff !important;
 }
 .list-inline.actions a {
-  color:#6a148e !important;
+  color:#33AABB !important;
 }
 
 .popular-locations li a {
-    color: #6a148e;
+    color: #33AABB;
 }
 .overseas-world-regions h3 {
     font-family: 'Droid Sans', sans-serif;
-    background-color: #6a148e;
+    background-color: #33AABB;
 }
 .overseas-popular-countries ul.list-inline> li a {
     color: #57185f

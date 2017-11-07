@@ -21,7 +21,7 @@
 
 
 
-</div>
+</div>Search propert to Buy, Rent,
 
 
 
@@ -1363,7 +1363,7 @@
 
                 
 <noscript><style>.no-js-display { display: block !important; }</style></noscript>
-<style>.browse-table-header {background:#6a148e;} .browse-table .browse-row-clickable:hover .browse-cell-first:after{background:#6a148e;}</style>
+<style>.browse-table-header {background:#33AABB;} .browse-table .browse-row-clickable:hover .browse-cell-first:after{background:#33AABB;}</style>
 
 <h2 class="h-subheader" style="margin: 17px;">Browse property for sale by area *</h2>
 
