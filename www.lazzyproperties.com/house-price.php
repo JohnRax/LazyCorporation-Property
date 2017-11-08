@@ -145,8 +145,8 @@
         <tr class="browse-row-clickable is-collapsed row-even">
             <td width="40" class="browse-cell-first"><button class="btn btn-browse-row-clickable"><i class="icon icon-expand"></i><i class="icon icon-collapse"></i></button></td>
             <td><button class="btn btn-browse-row-clickable btn-browse-row-main-link" style="padding-left: 0;">London</button></td>
-                <td width="25%" ><button class="btn btn-browse-row-clickable">&pound;627,641</td>
-                <td width="25%" ><button class="btn btn-browse-row-clickable">&pound;658,016</td>
+                <td width="25%" ><button class="btn btn-browse-row-clickable">₱;627,641</td>
+                <td width="25%" ><button class="btn btn-browse-row-clickable">₱;658,016</td>
         </tr>
 
         <tr class="row-even"><td colspan="4" style="padding: 0;"><div style="display: none;" class="no-js-display">
@@ -157,8 +157,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/central-london/">Central London</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/central-london/">&pound;1,300,844</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/central-london/">&pound;1,394,293</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/central-london/">₱;1,300,844</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/central-london/">₱;1,394,293</a></td>
                 </tr>
 
 
@@ -166,8 +166,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/east-london/">East London</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/east-london/">&pound;443,346</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/east-london/">&pound;437,185</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/east-london/">₱;443,346</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/east-london/">₱;437,185</a></td>
                 </tr>
 
 
@@ -175,8 +175,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/north-east-london/">North East London</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/north-east-london/">&pound;531,339</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/north-east-london/">&pound;553,326</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/north-east-london/">₱;531,339</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/north-east-london/">₱;553,326</a></td>
                 </tr>
 
 
@@ -184,8 +184,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/north-london/">North London</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/north-london/">&pound;692,284</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/north-london/">&pound;706,175</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/north-london/">₱;692,284</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/north-london/">₱;706,175</a></td>
                 </tr>
 
 
@@ -193,8 +193,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/south-london/">South London</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/south-london/">&pound;722,814</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/south-london/">&pound;686,469</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/south-london/">₱;722,814</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/south-london/">₱;686,469</a></td>
                 </tr>
 
 
@@ -202,8 +202,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/west-london/">West London</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/west-london/">&pound;1,016,609</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/west-london/">&pound;991,973</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/west-london/">₱;1,016,609</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/west-london/">₱;991,973</a></td>
                 </tr>
 
 
@@ -214,8 +214,8 @@
         <tr class="browse-row-clickable is-collapsed row-odd">
             <td width="40" class="browse-cell-first"><button class="btn btn-browse-row-clickable"><i class="icon icon-expand"></i><i class="icon icon-collapse"></i></button></td>
             <td><button class="btn btn-browse-row-clickable btn-browse-row-main-link" style="padding-left: 0;">South East England</button></td>
-                <td width="25%" ><button class="btn btn-browse-row-clickable">&pound;371,065</td>
-                <td width="25%" ><button class="btn btn-browse-row-clickable">&pound;403,134</td>
+                <td width="25%" ><button class="btn btn-browse-row-clickable">₱;371,065</td>
+                <td width="25%" ><button class="btn btn-browse-row-clickable">₱;403,134</td>
         </tr>
 
         <tr class="row-odd"><td colspan="4" style="padding: 0;"><div style="display: none;" class="no-js-display">
@@ -226,8 +226,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/berkshire/">Berkshire</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/berkshire/">&pound;415,771</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/berkshire/">&pound;399,996</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/berkshire/">₱;415,771</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/berkshire/">₱;399,996</a></td>
                 </tr>
 
 
@@ -235,8 +235,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/buckinghamshire/">Buckinghamshire</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/buckinghamshire/">&pound;440,129</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/buckinghamshire/">&pound;402,689</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/buckinghamshire/">₱;440,129</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/buckinghamshire/">₱;402,689</a></td>
                 </tr>
 
 
@@ -244,8 +244,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/east-sussex/">East Sussex</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/east-sussex/">&pound;360,188</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/east-sussex/">&pound;333,858</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/east-sussex/">₱;360,188</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/east-sussex/">₱;333,858</a></td>
                 </tr>
 
 
@@ -253,8 +253,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/hampshire/">Hampshire</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/hampshire/">&pound;358,401</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/hampshire/">&pound;331,899</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/hampshire/">₱;358,401</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/hampshire/">₱;331,899</a></td>
                 </tr>
 
 
@@ -262,8 +262,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/isle-of-wight/">Isle of Wight</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/isle-of-wight/">&pound;247,089</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/isle-of-wight/">&pound;234,310</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/isle-of-wight/">₱;247,089</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/isle-of-wight/">₱;234,310</a></td>
                 </tr>
 
 
@@ -271,8 +271,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/kent/">Kent</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/kent/">&pound;336,463</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/kent/">&pound;311,290</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/kent/">₱;336,463</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/kent/">₱;311,290</a></td>
                 </tr>
 
 
@@ -280,8 +280,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/oxfordshire/">Oxfordshire</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/oxfordshire/">&pound;433,516</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/oxfordshire/">&pound;396,863</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/oxfordshire/">₱;433,516</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/oxfordshire/">₱;396,863</a></td>
                 </tr>
 
 
@@ -289,8 +289,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/southampton/">Southampton</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/southampton/">&pound;282,905</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/southampton/">&pound;269,878</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/southampton/">₱;282,905</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/southampton/">₱;269,878</a></td>
                 </tr>
 
 
@@ -298,8 +298,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/surrey/">Surrey</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/surrey/">&pound;599,889</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/surrey/">&pound;553,596</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/surrey/">₱;599,889</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/surrey/">₱;553,596</a></td>
                 </tr>
 
 
@@ -307,8 +307,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/west-berkshire/">West Berkshire</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/west-berkshire/">&pound;421,831</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/west-berkshire/">&pound;375,187</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/west-berkshire/">₱;421,831</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/west-berkshire/">₱;375,187</a></td>
                 </tr>
 
 
@@ -316,8 +316,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/west-sussex/">West Sussex</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/west-sussex/">&pound;382,155</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/west-sussex/">&pound;359,335</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/west-sussex/">₱;382,155</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/west-sussex/">₱;359,335</a></td>
                 </tr>
 
 
@@ -325,8 +325,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/windsor-and-maidenhead/">Windsor & Maidenhead</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/windsor-and-maidenhead/">&pound;623,395</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/windsor-and-maidenhead/">&pound;596,950</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/windsor-and-maidenhead/">₱;623,395</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/windsor-and-maidenhead/">₱;596,950</a></td>
                 </tr>
 
 
@@ -337,8 +337,8 @@
         <tr class="browse-row-clickable is-collapsed row-even">
             <td width="40" class="browse-cell-first"><button class="btn btn-browse-row-clickable"><i class="icon icon-expand"></i><i class="icon icon-collapse"></i></button></td>
             <td><button class="btn btn-browse-row-clickable btn-browse-row-main-link" style="padding-left: 0;">East Midlands</button></td>
-                <td width="25%" ><button class="btn btn-browse-row-clickable">&pound;200,237</td>
-                <td width="25%" ><button class="btn btn-browse-row-clickable">&pound;208,251</td>
+                <td width="25%" ><button class="btn btn-browse-row-clickable">₱;200,237</td>
+                <td width="25%" ><button class="btn btn-browse-row-clickable">₱;208,251</td>
         </tr>
 
         <tr class="row-even"><td colspan="4" style="padding: 0;"><div style="display: none;" class="no-js-display">
@@ -349,8 +349,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/derbyshire/">Derbyshire</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/derbyshire/">&pound;200,778</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/derbyshire/">&pound;190,718</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/derbyshire/">₱;200,778</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/derbyshire/">₱;190,718</a></td>
                 </tr>
 
 
@@ -358,8 +358,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/leicestershire/">Leicestershire</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/leicestershire/">&pound;227,057</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/leicestershire/">&pound;218,094</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/leicestershire/">₱;227,057</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/leicestershire/">₱;218,094</a></td>
                 </tr>
 
 
@@ -367,8 +367,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/lincolnshire/">Lincolnshire</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/lincolnshire/">&pound;196,546</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/lincolnshire/">&pound;189,189</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/lincolnshire/">₱;196,546</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/lincolnshire/">₱;189,189</a></td>
                 </tr>
 
 
@@ -376,8 +376,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/northamptonshire/">Northamptonshire</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/northamptonshire/">&pound;236,851</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/northamptonshire/">&pound;228,478</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/northamptonshire/">₱;236,851</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/northamptonshire/">₱;228,478</a></td>
                 </tr>
 
 
@@ -385,8 +385,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/nottinghamshire/">Nottinghamshire</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/nottinghamshire/">&pound;167,141</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/nottinghamshire/">&pound;161,607</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/nottinghamshire/">₱;167,141</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/nottinghamshire/">₱;161,607</a></td>
                 </tr>
 
 
@@ -394,8 +394,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/nottingham/">Nottingham</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/nottingham/">&pound;193,574</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/nottingham/">&pound;187,889</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/nottingham/">₱;193,574</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/nottingham/">₱;187,889</a></td>
                 </tr>
 
 
@@ -403,8 +403,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/rutland/">Rutland</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/rutland/">&pound;341,425</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/rutland/">&pound;296,525</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/rutland/">₱;341,425</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/rutland/">₱;296,525</a></td>
                 </tr>
 
 
@@ -415,8 +415,8 @@
         <tr class="browse-row-clickable is-collapsed row-odd">
             <td width="40" class="browse-cell-first"><button class="btn btn-browse-row-clickable"><i class="icon icon-expand"></i><i class="icon icon-collapse"></i></button></td>
             <td><button class="btn btn-browse-row-clickable btn-browse-row-main-link" style="padding-left: 0;">East of England</button></td>
-                <td width="25%" ><button class="btn btn-browse-row-clickable">&pound;323,568</td>
-                <td width="25%" ><button class="btn btn-browse-row-clickable">&pound;354,157</td>
+                <td width="25%" ><button class="btn btn-browse-row-clickable">₱;323,568</td>
+                <td width="25%" ><button class="btn btn-browse-row-clickable">₱;354,157</td>
         </tr>
 
         <tr class="row-odd"><td colspan="4" style="padding: 0;"><div style="display: none;" class="no-js-display">
@@ -427,8 +427,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/bedfordshire/">Bedfordshire</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/bedfordshire/">&pound;308,878</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/bedfordshire/">&pound;290,372</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/bedfordshire/">₱;308,878</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/bedfordshire/">₱;290,372</a></td>
                 </tr>
 
 
@@ -436,8 +436,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/cambridgeshire/">Cambridgeshire</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/cambridgeshire/">&pound;350,552</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/cambridgeshire/">&pound;327,381</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/cambridgeshire/">₱;350,552</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/cambridgeshire/">₱;327,381</a></td>
                 </tr>
 
 
@@ -445,8 +445,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/essex/">Essex</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/essex/">&pound;362,100</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/essex/">&pound;336,050</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/essex/">₱;362,100</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/essex/">₱;336,050</a></td>
                 </tr>
 
 
@@ -454,8 +454,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/hertfordshire/">Hertfordshire</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/hertfordshire/">&pound;508,118</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/hertfordshire/">&pound;454,140</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/hertfordshire/">₱;508,118</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/hertfordshire/">₱;454,140</a></td>
                 </tr>
 
 
@@ -463,8 +463,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/norfolk/">Norfolk</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/norfolk/">&pound;254,442</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/norfolk/">&pound;242,115</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/norfolk/">₱;254,442</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/norfolk/">₱;242,115</a></td>
                 </tr>
 
 
@@ -472,8 +472,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/peterborough/">Peterborough</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/peterborough/">&pound;220,738</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/peterborough/">&pound;207,404</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/peterborough/">₱;220,738</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/peterborough/">₱;207,404</a></td>
                 </tr>
 
 
@@ -481,8 +481,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/suffolk/">Suffolk</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/suffolk/">&pound;283,446</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/suffolk/">&pound;260,250</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/suffolk/">₱;283,446</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/suffolk/">₱;260,250</a></td>
                 </tr>
 
 
@@ -493,8 +493,8 @@
         <tr class="browse-row-clickable is-collapsed row-even">
             <td width="40" class="browse-cell-first"><button class="btn btn-browse-row-clickable"><i class="icon icon-expand"></i><i class="icon icon-collapse"></i></button></td>
             <td><button class="btn btn-browse-row-clickable btn-browse-row-main-link" style="padding-left: 0;">North East England</button></td>
-                <td width="25%" ><button class="btn btn-browse-row-clickable">&pound;182,517</td>
-                <td width="25%" ><button class="btn btn-browse-row-clickable">&pound;185,046</td>
+                <td width="25%" ><button class="btn btn-browse-row-clickable">₱;182,517</td>
+                <td width="25%" ><button class="btn btn-browse-row-clickable">₱;185,046</td>
         </tr>
 
         <tr class="row-even"><td colspan="4" style="padding: 0;"><div style="display: none;" class="no-js-display">
@@ -505,8 +505,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/county-durham/">County Durham</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/county-durham/">&pound;141,431</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/county-durham/">&pound;139,832</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/county-durham/">₱;141,431</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/county-durham/">₱;139,832</a></td>
                 </tr>
 
 
@@ -514,8 +514,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/hartlepool/">Hartlepool</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/hartlepool/">&pound;125,657</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/hartlepool/">&pound;129,770</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/hartlepool/">₱;125,657</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/hartlepool/">₱;129,770</a></td>
                 </tr>
 
 
@@ -523,8 +523,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/north-yorkshire/">North Yorkshire</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/north-yorkshire/">&pound;234,159</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/north-yorkshire/">&pound;228,220</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/north-yorkshire/">₱;234,159</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/north-yorkshire/">₱;228,220</a></td>
                 </tr>
 
 
@@ -532,8 +532,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/northumberland/">Northumberland</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/northumberland/">&pound;187,270</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/northumberland/">&pound;181,237</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/northumberland/">₱;187,270</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/northumberland/">₱;181,237</a></td>
                 </tr>
 
 
@@ -541,8 +541,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/tyne-and-wear/">Tyne & Wear</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/tyne-and-wear/">&pound;172,656</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/tyne-and-wear/">&pound;169,146</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/tyne-and-wear/">₱;172,656</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/tyne-and-wear/">₱;169,146</a></td>
                 </tr>
 
 
@@ -553,8 +553,8 @@
         <tr class="browse-row-clickable is-collapsed row-odd">
             <td width="40" class="browse-cell-first"><button class="btn btn-browse-row-clickable"><i class="icon icon-expand"></i><i class="icon icon-collapse"></i></button></td>
             <td><button class="btn btn-browse-row-clickable btn-browse-row-main-link" style="padding-left: 0;">North West England</button></td>
-                <td width="25%" ><button class="btn btn-browse-row-clickable">&pound;182,776</td>
-                <td width="25%" ><button class="btn btn-browse-row-clickable">&pound;188,453</td>
+                <td width="25%" ><button class="btn btn-browse-row-clickable">₱;182,776</td>
+                <td width="25%" ><button class="btn btn-browse-row-clickable">₱;188,453</td>
         </tr>
 
         <tr class="row-odd"><td colspan="4" style="padding: 0;"><div style="display: none;" class="no-js-display">
@@ -565,8 +565,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/cheshire/">Cheshire</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/cheshire/">&pound;240,814</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/cheshire/">&pound;226,787</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/cheshire/">₱;240,814</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/cheshire/">₱;226,787</a></td>
                 </tr>
 
 
@@ -574,8 +574,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/cumbria/">Cumbria</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/cumbria/">&pound;194,754</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/cumbria/">&pound;179,672</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/cumbria/">₱;194,754</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/cumbria/">₱;179,672</a></td>
                 </tr>
 
 
@@ -583,8 +583,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/greater-manchester/">Greater Manchester</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/greater-manchester/">&pound;188,331</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/greater-manchester/">&pound;185,338</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/greater-manchester/">₱;188,331</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/greater-manchester/">₱;185,338</a></td>
                 </tr>
 
 
@@ -592,8 +592,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/lancashire/">Lancashire</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/lancashire/">&pound;163,187</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/lancashire/">&pound;160,532</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/lancashire/">₱;163,187</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/lancashire/">₱;160,532</a></td>
                 </tr>
 
 
@@ -601,8 +601,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/merseyside/">Merseyside</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/merseyside/">&pound;161,456</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/merseyside/">&pound;153,631</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/merseyside/">₱;161,456</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/merseyside/">₱;153,631</a></td>
                 </tr>
 
 
@@ -613,8 +613,8 @@
         <tr class="browse-row-clickable is-collapsed row-even">
             <td width="40" class="browse-cell-first"><button class="btn btn-browse-row-clickable"><i class="icon icon-expand"></i><i class="icon icon-collapse"></i></button></td>
             <td><button class="btn btn-browse-row-clickable btn-browse-row-main-link" style="padding-left: 0;">South West England</button></td>
-                <td width="25%" ><button class="btn btn-browse-row-clickable">&pound;273,232</td>
-                <td width="25%" ><button class="btn btn-browse-row-clickable">&pound;293,195</td>
+                <td width="25%" ><button class="btn btn-browse-row-clickable">₱;273,232</td>
+                <td width="25%" ><button class="btn btn-browse-row-clickable">₱;293,195</td>
         </tr>
 
         <tr class="row-even"><td colspan="4" style="padding: 0;"><div style="display: none;" class="no-js-display">
@@ -625,8 +625,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/bath-and-n-e-somerset/">Bath & N E Somerset</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/bath-and-n-e-somerset/">&pound;398,589</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/bath-and-n-e-somerset/">&pound;399,924</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/bath-and-n-e-somerset/">₱;398,589</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/bath-and-n-e-somerset/">₱;399,924</a></td>
                 </tr>
 
 
@@ -634,8 +634,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/bristol/">Bristol</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/bristol/">&pound;319,253</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/bristol/">&pound;298,577</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/bristol/">₱;319,253</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/bristol/">₱;298,577</a></td>
                 </tr>
 
 
@@ -643,8 +643,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/cornwall/">Cornwall</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/cornwall/">&pound;260,356</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/cornwall/">&pound;250,023</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/cornwall/">₱;260,356</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/cornwall/">₱;250,023</a></td>
                 </tr>
 
 
@@ -652,8 +652,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/devon/">Devon</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/devon/">&pound;281,868</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/devon/">&pound;259,994</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/devon/">₱;281,868</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/devon/">₱;259,994</a></td>
                 </tr>
 
 
@@ -661,8 +661,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/dorset/">Dorset</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/dorset/">&pound;328,246</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/dorset/">&pound;312,221</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/dorset/">₱;328,246</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/dorset/">₱;312,221</a></td>
                 </tr>
 
 
@@ -670,8 +670,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/gloucestershire/">Gloucestershire</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/gloucestershire/">&pound;301,981</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/gloucestershire/">&pound;279,645</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/gloucestershire/">₱;301,981</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/gloucestershire/">₱;279,645</a></td>
                 </tr>
 
 
@@ -679,8 +679,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/isles-of-scilly/">Isles of Scilly</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/isles-of-scilly/">&pound;440,737</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/isles-of-scilly/">&pound;323,930</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/isles-of-scilly/">₱;440,737</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/isles-of-scilly/">₱;323,930</a></td>
                 </tr>
 
 
@@ -688,8 +688,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/north-somerset/">North Somerset</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/north-somerset/">&pound;247,748</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/north-somerset/">&pound;229,532</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/north-somerset/">₱;247,748</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/north-somerset/">₱;229,532</a></td>
                 </tr>
 
 
@@ -697,8 +697,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/plymouth/">Plymouth</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/plymouth/">&pound;202,851</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/plymouth/">&pound;190,957</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/plymouth/">₱;202,851</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/plymouth/">₱;190,957</a></td>
                 </tr>
 
 
@@ -706,8 +706,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/somerset/">Somerset</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/somerset/">&pound;262,541</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/somerset/">&pound;241,764</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/somerset/">₱;262,541</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/somerset/">₱;241,764</a></td>
                 </tr>
 
 
@@ -715,8 +715,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/south-gloucestershire/">South Gloucestershire</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/south-gloucestershire/">&pound;475,268</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/south-gloucestershire/">&pound;345,067</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/south-gloucestershire/">₱;475,268</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/south-gloucestershire/">₱;345,067</a></td>
                 </tr>
 
 
@@ -724,8 +724,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/wiltshire/">Wiltshire</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/wiltshire/">&pound;300,819</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/wiltshire/">&pound;272,198</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/wiltshire/">₱;300,819</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/wiltshire/">₱;272,198</a></td>
                 </tr>
 
 
@@ -736,8 +736,8 @@
         <tr class="browse-row-clickable is-collapsed row-odd">
             <td width="40" class="browse-cell-first"><button class="btn btn-browse-row-clickable"><i class="icon icon-expand"></i><i class="icon icon-collapse"></i></button></td>
             <td><button class="btn btn-browse-row-clickable btn-browse-row-main-link" style="padding-left: 0;">West Midlands</button></td>
-                <td width="25%" ><button class="btn btn-browse-row-clickable">&pound;210,584</td>
-                <td width="25%" ><button class="btn btn-browse-row-clickable">&pound;216,939</td>
+                <td width="25%" ><button class="btn btn-browse-row-clickable">₱;210,584</td>
+                <td width="25%" ><button class="btn btn-browse-row-clickable">₱;216,939</td>
         </tr>
 
         <tr class="row-odd"><td colspan="4" style="padding: 0;"><div style="display: none;" class="no-js-display">
@@ -748,8 +748,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/herefordshire/">Herefordshire</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/herefordshire/">&pound;260,880</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/herefordshire/">&pound;238,168</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/herefordshire/">₱;260,880</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/herefordshire/">₱;238,168</a></td>
                 </tr>
 
 
@@ -757,8 +757,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/shropshire/">Shropshire</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/shropshire/">&pound;221,563</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/shropshire/">&pound;216,191</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/shropshire/">₱;221,563</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/shropshire/">₱;216,191</a></td>
                 </tr>
 
 
@@ -766,8 +766,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/staffordshire/">Staffordshire</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/staffordshire/">&pound;184,876</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/staffordshire/">&pound;180,157</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/staffordshire/">₱;184,876</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/staffordshire/">₱;180,157</a></td>
                 </tr>
 
 
@@ -775,8 +775,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/warwickshire/">Warwickshire</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/warwickshire/">&pound;282,142</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/warwickshire/">&pound;272,681</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/warwickshire/">₱;282,142</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/warwickshire/">₱;272,681</a></td>
                 </tr>
 
 
@@ -784,8 +784,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/west-midlands-county/">West Midlands</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/west-midlands-county/">&pound;203,987</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/west-midlands-county/">&pound;197,571</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/west-midlands-county/">₱;203,987</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/west-midlands-county/">₱;197,571</a></td>
                 </tr>
 
 
@@ -793,8 +793,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/worcestershire/">Worcestershire</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/worcestershire/">&pound;253,059</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/worcestershire/">&pound;245,253</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/worcestershire/">₱;253,059</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/worcestershire/">₱;245,253</a></td>
                 </tr>
 
 
@@ -805,8 +805,8 @@
         <tr class="browse-row-clickable is-collapsed row-even">
             <td width="40" class="browse-cell-first"><button class="btn btn-browse-row-clickable"><i class="icon icon-expand"></i><i class="icon icon-collapse"></i></button></td>
             <td><button class="btn btn-browse-row-clickable btn-browse-row-main-link" style="padding-left: 0;">Yorkshire and The Humber</button></td>
-                <td width="25%" ><button class="btn btn-browse-row-clickable">&pound;167,787</td>
-                <td width="25%" ><button class="btn btn-browse-row-clickable">&pound;170,532</td>
+                <td width="25%" ><button class="btn btn-browse-row-clickable">₱;167,787</td>
+                <td width="25%" ><button class="btn btn-browse-row-clickable">₱;170,532</td>
         </tr>
 
         <tr class="row-even"><td colspan="4" style="padding: 0;"><div style="display: none;" class="no-js-display">
@@ -817,8 +817,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/east-riding-of-yorkshire/">East Riding of Yorkshire</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/east-riding-of-yorkshire/">&pound;166,826</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/east-riding-of-yorkshire/">&pound;166,763</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/east-riding-of-yorkshire/">₱;166,826</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/east-riding-of-yorkshire/">₱;166,763</a></td>
                 </tr>
 
 
@@ -826,8 +826,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/north-east-lincolnshire/">North East Lincolnshire</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/north-east-lincolnshire/">&pound;142,915</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/north-east-lincolnshire/">&pound;140,958</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/north-east-lincolnshire/">₱;142,915</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/north-east-lincolnshire/">₱;140,958</a></td>
                 </tr>
 
 
@@ -835,8 +835,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/north-lincolnshire/">North Lincolnshire</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/north-lincolnshire/">&pound;144,575</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/north-lincolnshire/">&pound;146,027</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/north-lincolnshire/">₱;144,575</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/north-lincolnshire/">₱;146,027</a></td>
                 </tr>
 
 
@@ -844,8 +844,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/south-yorkshire/">South Yorkshire</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/south-yorkshire/">&pound;162,632</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/south-yorkshire/">&pound;157,800</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/south-yorkshire/">₱;162,632</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/south-yorkshire/">₱;157,800</a></td>
                 </tr>
 
 
@@ -853,8 +853,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/west-yorkshire/">West Yorkshire</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/west-yorkshire/">&pound;179,883</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/west-yorkshire/">&pound;177,372</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/west-yorkshire/">₱;179,883</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/west-yorkshire/">₱;177,372</a></td>
                 </tr>
 
 
@@ -865,8 +865,8 @@
         <tr class="browse-row-clickable is-collapsed row-odd">
             <td width="40" class="browse-cell-first"><button class="btn btn-browse-row-clickable"><i class="icon icon-expand"></i><i class="icon icon-collapse"></i></button></td>
             <td><button class="btn btn-browse-row-clickable btn-browse-row-main-link" style="padding-left: 0;">Scotland</button></td>
-                <td width="25%" ><button class="btn btn-browse-row-clickable">&pound;171,387</td>
-                <td width="25%" ><button class="btn btn-browse-row-clickable">&pound;188,408</td>
+                <td width="25%" ><button class="btn btn-browse-row-clickable">₱;171,387</td>
+                <td width="25%" ><button class="btn btn-browse-row-clickable">₱;188,408</td>
         </tr>
 
         <tr class="row-odd"><td colspan="4" style="padding: 0;"><div style="display: none;" class="no-js-display">
@@ -877,8 +877,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/aberdeenshire/">Aberdeenshire</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/aberdeenshire/">&pound;220,630</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/aberdeenshire/">&pound;211,193</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/aberdeenshire/">₱;220,630</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/aberdeenshire/">₱;211,193</a></td>
                 </tr>
 
 
@@ -886,8 +886,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/angus/">Angus</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/angus/">&pound;161,300</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/angus/">&pound;150,832</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/angus/">₱;161,300</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/angus/">₱;150,832</a></td>
                 </tr>
 
 
@@ -895,8 +895,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/argyll-and-bute/">Argyll & Bute</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/argyll-and-bute/">&pound;179,540</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/argyll-and-bute/">&pound;157,965</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/argyll-and-bute/">₱;179,540</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/argyll-and-bute/">₱;157,965</a></td>
                 </tr>
 
 
@@ -904,8 +904,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/clackmannanshire/">Clackmannanshire</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/clackmannanshire/">&pound;158,809</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/clackmannanshire/">&pound;143,332</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/clackmannanshire/">₱;158,809</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/clackmannanshire/">₱;143,332</a></td>
                 </tr>
 
 
@@ -913,8 +913,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/dumfries-and-galloway/">Dumfries & Galloway</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/dumfries-and-galloway/">&pound;154,676</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/dumfries-and-galloway/">&pound;134,112</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/dumfries-and-galloway/">₱;154,676</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/dumfries-and-galloway/">₱;134,112</a></td>
                 </tr>
 
 
@@ -922,8 +922,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/dundee/">Dundee</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/dundee/">&pound;164,836</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/dundee/">&pound;152,334</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/dundee/">₱;164,836</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/dundee/">₱;152,334</a></td>
                 </tr>
 
 
@@ -931,8 +931,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/east-ayrshire/">East Ayrshire</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/east-ayrshire/">&pound;135,470</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/east-ayrshire/">&pound;120,003</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/east-ayrshire/">₱;135,470</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/east-ayrshire/">₱;120,003</a></td>
                 </tr>
 
 
@@ -940,8 +940,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/east-lothian/">East Lothian</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/east-lothian/">&pound;247,572</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/east-lothian/">&pound;220,445</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/east-lothian/">₱;247,572</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/east-lothian/">₱;220,445</a></td>
                 </tr>
 
 
@@ -949,8 +949,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/edinburgh-county/">Edinburgh</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/edinburgh-county/">&pound;285,026</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/edinburgh-county/">&pound;253,423</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/edinburgh-county/">₱;285,026</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/edinburgh-county/">₱;253,423</a></td>
                 </tr>
 
 
@@ -958,8 +958,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/falkirk-county/">Falkirk</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/falkirk-county/">&pound;149,018</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/falkirk-county/">&pound;134,036</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/falkirk-county/">₱;149,018</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/falkirk-county/">₱;134,036</a></td>
                 </tr>
 
 
@@ -967,8 +967,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/fife/">Fife</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/fife/">&pound;168,484</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/fife/">&pound;154,796</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/fife/">₱;168,484</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/fife/">₱;154,796</a></td>
                 </tr>
 
 
@@ -976,8 +976,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/glasgow/">Glasgow</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/glasgow/">&pound;183,239</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/glasgow/">&pound;166,182</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/glasgow/">₱;183,239</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/glasgow/">₱;166,182</a></td>
                 </tr>
 
 
@@ -985,8 +985,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/highland/">Highland</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/highland/">&pound;181,970</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/highland/">&pound;170,775</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/highland/">₱;181,970</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/highland/">₱;170,775</a></td>
                 </tr>
 
 
@@ -994,8 +994,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/inverclyde/">Inverclyde</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/inverclyde/">&pound;157,140</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/inverclyde/">&pound;129,651</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/inverclyde/">₱;157,140</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/inverclyde/">₱;129,651</a></td>
                 </tr>
 
 
@@ -1003,8 +1003,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/midlothian/">Midlothian</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/midlothian/">&pound;211,034</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/midlothian/">&pound;199,625</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/midlothian/">₱;211,034</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/midlothian/">₱;199,625</a></td>
                 </tr>
 
 
@@ -1012,8 +1012,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/moray/">Moray</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/moray/">&pound;163,991</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/moray/">&pound;156,056</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/moray/">₱;163,991</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/moray/">₱;156,056</a></td>
                 </tr>
 
 
@@ -1021,8 +1021,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/north-ayrshire/">North Ayrshire</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/north-ayrshire/">&pound;135,948</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/north-ayrshire/">&pound;118,896</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/north-ayrshire/">₱;135,948</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/north-ayrshire/">₱;118,896</a></td>
                 </tr>
 
 
@@ -1030,8 +1030,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/north-lanarkshire/">North Lanarkshire</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/north-lanarkshire/">&pound;124,688</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/north-lanarkshire/">&pound;113,319</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/north-lanarkshire/">₱;124,688</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/north-lanarkshire/">₱;113,319</a></td>
                 </tr>
 
 
@@ -1039,8 +1039,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/orkney-county/">Orkney</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/orkney-county/">&pound;144,435</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/orkney-county/">&pound;141,323</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/orkney-county/">₱;144,435</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/orkney-county/">₱;141,323</a></td>
                 </tr>
 
 
@@ -1048,8 +1048,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/perth-and-kinross/">Perth & Kinross</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/perth-and-kinross/">&pound;208,213</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/perth-and-kinross/">&pound;194,375</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/perth-and-kinross/">₱;208,213</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/perth-and-kinross/">₱;194,375</a></td>
                 </tr>
 
 
@@ -1057,8 +1057,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/renfrewshire/">Renfrewshire</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/renfrewshire/">&pound;157,508</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/renfrewshire/">&pound;146,607</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/renfrewshire/">₱;157,508</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/renfrewshire/">₱;146,607</a></td>
                 </tr>
 
 
@@ -1066,8 +1066,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/scottish-borders/">Scottish Borders</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/scottish-borders/">&pound;201,171</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/scottish-borders/">&pound;170,368</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/scottish-borders/">₱;201,171</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/scottish-borders/">₱;170,368</a></td>
                 </tr>
 
 
@@ -1075,8 +1075,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/shetland/">Shetland</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/shetland/">&pound;144,119</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/shetland/">&pound;158,352</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/shetland/">₱;144,119</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/shetland/">₱;158,352</a></td>
                 </tr>
 
 
@@ -1084,8 +1084,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/south-ayrshire/">South Ayrshire</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/south-ayrshire/">&pound;174,698</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/south-ayrshire/">&pound;151,689</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/south-ayrshire/">₱;174,698</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/south-ayrshire/">₱;151,689</a></td>
                 </tr>
 
 
@@ -1093,8 +1093,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/south-lanarkshire/">South Lanarkshire</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/south-lanarkshire/">&pound;150,747</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/south-lanarkshire/">&pound;139,031</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/south-lanarkshire/">₱;150,747</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/south-lanarkshire/">₱;139,031</a></td>
                 </tr>
 
 
@@ -1102,8 +1102,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/stirling-county/">Stirling</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/stirling-county/">&pound;219,772</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/stirling-county/">&pound;189,355</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/stirling-county/">₱;219,772</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/stirling-county/">₱;189,355</a></td>
                 </tr>
 
 
@@ -1111,8 +1111,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/west-dunbartonshire/">West Dunbartonshire</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/west-dunbartonshire/">&pound;138,795</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/west-dunbartonshire/">&pound;113,972</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/west-dunbartonshire/">₱;138,795</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/west-dunbartonshire/">₱;113,972</a></td>
                 </tr>
 
 
@@ -1120,8 +1120,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/west-lothian/">West Lothian</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/west-lothian/">&pound;174,272</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/west-lothian/">&pound;152,085</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/west-lothian/">₱;174,272</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/west-lothian/">₱;152,085</a></td>
                 </tr>
 
 
@@ -1129,8 +1129,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/western-isles/">Western Isles</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/western-isles/">&pound;112,521</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/western-isles/">&pound;97,484</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/western-isles/">₱;112,521</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/western-isles/">₱;97,484</a></td>
                 </tr>
 
 
@@ -1141,8 +1141,8 @@
         <tr class="browse-row-clickable is-collapsed row-even">
             <td width="40" class="browse-cell-first"><button class="btn btn-browse-row-clickable"><i class="icon icon-expand"></i><i class="icon icon-collapse"></i></button></td>
             <td><button class="btn btn-browse-row-clickable btn-browse-row-main-link" style="padding-left: 0;">Wales</button></td>
-                <td width="25%" ><button class="btn btn-browse-row-clickable">&pound;172,235</td>
-                <td width="25%" ><button class="btn btn-browse-row-clickable">&pound;184,101</td>
+                <td width="25%" ><button class="btn btn-browse-row-clickable">₱;172,235</td>
+                <td width="25%" ><button class="btn btn-browse-row-clickable">₱;184,101</td>
         </tr>
 
         <tr class="row-even"><td colspan="4" style="padding: 0;"><div style="display: none;" class="no-js-display">
@@ -1153,8 +1153,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/blaenau-gwent/">Blaenau Gwent</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/blaenau-gwent/">&pound;100,664</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/blaenau-gwent/">&pound;95,440</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/blaenau-gwent/">₱;100,664</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/blaenau-gwent/">₱;95,440</a></td>
                 </tr>
 
 
@@ -1162,8 +1162,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/bridgend-county/">Bridgend</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/bridgend-county/">&pound;176,292</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/bridgend-county/">&pound;169,242</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/bridgend-county/">₱;176,292</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/bridgend-county/">₱;169,242</a></td>
                 </tr>
 
 
@@ -1171,8 +1171,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/caerphilly-county/">Caerphilly</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/caerphilly-county/">&pound;153,582</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/caerphilly-county/">&pound;141,602</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/caerphilly-county/">₱;153,582</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/caerphilly-county/">₱;141,602</a></td>
                 </tr>
 
 
@@ -1180,8 +1180,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/cardiff/">Cardiff</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/cardiff/">&pound;240,053</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/cardiff/">&pound;221,352</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/cardiff/">₱;240,053</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/cardiff/">₱;221,352</a></td>
                 </tr>
 
 
@@ -1189,8 +1189,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/carmarthenshire/">Carmarthenshire</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/carmarthenshire/">&pound;160,960</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/carmarthenshire/">&pound;150,041</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/carmarthenshire/">₱;160,960</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/carmarthenshire/">₱;150,041</a></td>
                 </tr>
 
 
@@ -1198,8 +1198,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/ceredigion/">Ceredigion</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/ceredigion/">&pound;207,478</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/ceredigion/">&pound;189,273</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/ceredigion/">₱;207,478</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/ceredigion/">₱;189,273</a></td>
                 </tr>
 
 
@@ -1207,8 +1207,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/conwy-county/">Conwy</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/conwy-county/">&pound;193,497</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/conwy-county/">&pound;178,348</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/conwy-county/">₱;193,497</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/conwy-county/">₱;178,348</a></td>
                 </tr>
 
 
@@ -1216,8 +1216,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/denbighshire/">Denbighshire</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/denbighshire/">&pound;166,900</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/denbighshire/">&pound;160,542</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/denbighshire/">₱;166,900</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/denbighshire/">₱;160,542</a></td>
                 </tr>
 
 
@@ -1225,8 +1225,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/flintshire/">Flintshire</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/flintshire/">&pound;184,281</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/flintshire/">&pound;169,552</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/flintshire/">₱;184,281</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/flintshire/">₱;169,552</a></td>
                 </tr>
 
 
@@ -1234,8 +1234,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/gwynedd/">Gwynedd</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/gwynedd/">&pound;182,448</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/gwynedd/">&pound;172,155</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/gwynedd/">₱;182,448</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/gwynedd/">₱;172,155</a></td>
                 </tr>
 
 
@@ -1243,8 +1243,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/isle-of-anglesey/">Isle of Anglesey</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/isle-of-anglesey/">&pound;185,529</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/isle-of-anglesey/">&pound;187,444</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/isle-of-anglesey/">₱;185,529</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/isle-of-anglesey/">₱;187,444</a></td>
                 </tr>
 
 
@@ -1252,8 +1252,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/merthyr-tydfil-county/">Merthyr Tydfil</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/merthyr-tydfil-county/">&pound;119,170</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/merthyr-tydfil-county/">&pound;119,089</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/merthyr-tydfil-county/">₱;119,170</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/merthyr-tydfil-county/">₱;119,089</a></td>
                 </tr>
 
 
@@ -1261,8 +1261,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/monmouthshire/">Monmouthshire</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/monmouthshire/">&pound;281,081</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/monmouthshire/">&pound;256,005</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/monmouthshire/">₱;281,081</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/monmouthshire/">₱;256,005</a></td>
                 </tr>
 
 
@@ -1270,8 +1270,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/neath-port-talbot/">Neath Port Talbot</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/neath-port-talbot/">&pound;126,312</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/neath-port-talbot/">&pound;118,550</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/neath-port-talbot/">₱;126,312</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/neath-port-talbot/">₱;118,550</a></td>
                 </tr>
 
 
@@ -1279,8 +1279,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/wales/newport/">Newport</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/wales/newport/">&pound;169,295</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/wales/newport/">&pound;163,354</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/wales/newport/">₱;169,295</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/wales/newport/">₱;163,354</a></td>
                 </tr>
 
 
@@ -1288,8 +1288,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/pembrokeshire/">Pembrokeshire</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/pembrokeshire/">&pound;203,006</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/pembrokeshire/">&pound;184,929</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/pembrokeshire/">₱;203,006</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/pembrokeshire/">₱;184,929</a></td>
                 </tr>
 
 
@@ -1297,8 +1297,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/powys/">Powys</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/powys/">&pound;210,522</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/powys/">&pound;193,418</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/powys/">₱;210,522</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/powys/">₱;193,418</a></td>
                 </tr>
 
 
@@ -1306,8 +1306,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/rhondda-cynon-taff/">Rhondda Cynon Taff</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/rhondda-cynon-taff/">&pound;127,717</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/rhondda-cynon-taff/">&pound;120,265</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/rhondda-cynon-taff/">₱;127,717</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/rhondda-cynon-taff/">₱;120,265</a></td>
                 </tr>
 
 
@@ -1315,8 +1315,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/swansea/">Swansea</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/swansea/">&pound;174,316</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/swansea/">&pound;163,129</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/swansea/">₱;174,316</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/swansea/">₱;163,129</a></td>
                 </tr>
 
 
@@ -1324,8 +1324,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/torfaen/">Torfaen</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/torfaen/">&pound;155,702</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/torfaen/">&pound;147,096</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/torfaen/">₱;155,702</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/torfaen/">₱;147,096</a></td>
                 </tr>
 
 
@@ -1333,8 +1333,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/vale-of-glamorgan-the/">Vale of Glamorgan, The</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/vale-of-glamorgan-the/">&pound;248,955</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/vale-of-glamorgan-the/">&pound;232,464</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/vale-of-glamorgan-the/">₱;248,955</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/vale-of-glamorgan-the/">₱;232,464</a></td>
                 </tr>
 
 
@@ -1342,8 +1342,8 @@
                 <tr class="browse-row-clickable">
                     <td width="40" class="browse-cell-first"><span style="display: block; width: 40px"></span></td>
                     <td><a style="padding-left: 0;" class="btn-browse-row-clickable" href="/house-prices/browse/wrexham/">Wrexham</td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/wrexham/">&pound;179,544</a></td>
-                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/wrexham/">&pound;168,203</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/wrexham/">₱;179,544</a></td>
+                    <td width="25%"><a class="btn-browse-row-clickable" href="/house-prices/browse/wrexham/">₱;168,203</a></td>
                 </tr>
 
 

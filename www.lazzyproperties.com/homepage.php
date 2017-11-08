@@ -96,89 +96,89 @@
         <option value="">No min</option>
 
         
-    <option value="10000"  data-condensed="10k">&pound;10,000</option>
-    <option value="20000"  data-condensed="20k">&pound;20,000</option>
-    <option value="30000"  data-condensed="30k">&pound;30,000</option>
-    <option value="40000"  data-condensed="40k">&pound;40,000</option>
-    <option value="50000"  data-condensed="50k">&pound;50,000</option>
-    <option value="60000"  data-condensed="60k">&pound;60,000</option>
-    <option value="70000"  data-condensed="70k">&pound;70,000</option>
-    <option value="80000"  data-condensed="80k">&pound;80,000</option>
-    <option value="90000"  data-condensed="90k">&pound;90,000</option>
-    <option value="100000"  data-condensed="100k">&pound;100,000</option>
-    <option value="110000"  data-condensed="110k">&pound;110,000</option>
-    <option value="120000"  data-condensed="120k">&pound;120,000</option>
-    <option value="125000"  data-condensed="125k">&pound;125,000</option>
-    <option value="130000"  data-condensed="130k">&pound;130,000</option>
-    <option value="140000"  data-condensed="140k">&pound;140,000</option>
-    <option value="150000"  data-condensed="150k">&pound;150,000</option>
-    <option value="160000"  data-condensed="160k">&pound;160,000</option>
-    <option value="170000"  data-condensed="170k">&pound;170,000</option>
-    <option value="180000"  data-condensed="180k">&pound;180,000</option>
-    <option value="190000"  data-condensed="190k">&pound;190,000</option>
-    <option value="200000"  data-condensed="200k">&pound;200,000</option>
-    <option value="210000"  data-condensed="210k">&pound;210,000</option>
-    <option value="220000"  data-condensed="220k">&pound;220,000</option>
-    <option value="230000"  data-condensed="230k">&pound;230,000</option>
-    <option value="240000"  data-condensed="240k">&pound;240,000</option>
-    <option value="250000"  data-condensed="250k">&pound;250,000</option>
-    <option value="275000"  data-condensed="275k">&pound;275,000</option>
-    <option value="300000"  data-condensed="300k">&pound;300,000</option>
-    <option value="325000"  data-condensed="325k">&pound;325,000</option>
-    <option value="350000"  data-condensed="350k">&pound;350,000</option>
-    <option value="375000"  data-condensed="375k">&pound;375,000</option>
-    <option value="400000"  data-condensed="400k">&pound;400,000</option>
-    <option value="425000"  data-condensed="425k">&pound;425,000</option>
-    <option value="450000"  data-condensed="450k">&pound;450,000</option>
-    <option value="475000"  data-condensed="475k">&pound;475,000</option>
-    <option value="500000"  data-condensed="500k">&pound;500,000</option>
-    <option value="550000"  data-condensed="550k">&pound;550,000</option>
-    <option value="600000"  data-condensed="600k">&pound;600,000</option>
-    <option value="650000"  data-condensed="650k">&pound;650,000</option>
-    <option value="700000"  data-condensed="700k">&pound;700,000</option>
-    <option value="750000"  data-condensed="750k">&pound;750,000</option>
-    <option value="800000"  data-condensed="800k">&pound;800,000</option>
-    <option value="850000"  data-condensed="850k">&pound;850,000</option>
-    <option value="900000"  data-condensed="900k">&pound;900,000</option>
-    <option value="950000"  data-condensed="950k">&pound;950,000</option>
-    <option value="1000000"  data-condensed="1m">&pound;1,000,000</option>
-    <option value="1100000"  data-condensed="1.1m">&pound;1,100,000</option>
-    <option value="1200000"  data-condensed="1.2m">&pound;1,200,000</option>
-    <option value="1300000"  data-condensed="1.3m">&pound;1,300,000</option>
-    <option value="1400000"  data-condensed="1.4m">&pound;1,400,000</option>
-    <option value="1500000"  data-condensed="1.5m">&pound;1,500,000</option>
-    <option value="1600000"  data-condensed="1.6m">&pound;1,600,000</option>
-    <option value="1700000"  data-condensed="1.7m">&pound;1,700,000</option>
-    <option value="1800000"  data-condensed="1.8m">&pound;1,800,000</option>
-    <option value="1900000"  data-condensed="1.9m">&pound;1,900,000</option>
-    <option value="2000000"  data-condensed="2m">&pound;2,000,000</option>
-    <option value="2100000"  data-condensed="2.1m">&pound;2,100,000</option>
-    <option value="2200000"  data-condensed="2.2m">&pound;2,200,000</option>
-    <option value="2300000"  data-condensed="2.3m">&pound;2,300,000</option>
-    <option value="2400000"  data-condensed="2.4m">&pound;2,400,000</option>
-    <option value="2500000"  data-condensed="2.5m">&pound;2,500,000</option>
-    <option value="2750000"  data-condensed="2.75m">&pound;2,750,000</option>
-    <option value="3000000"  data-condensed="3m">&pound;3,000,000</option>
-    <option value="3250000"  data-condensed="3.25m">&pound;3,250,000</option>
-    <option value="3500000"  data-condensed="3.5m">&pound;3,500,000</option>
-    <option value="3750000"  data-condensed="3.75m">&pound;3,750,000</option>
-    <option value="4000000"  data-condensed="4m">&pound;4,000,000</option>
-    <option value="4250000"  data-condensed="4.25m">&pound;4,250,000</option>
-    <option value="4500000"  data-condensed="4.5m">&pound;4,500,000</option>
-    <option value="4750000"  data-condensed="4.75m">&pound;4,750,000</option>
-    <option value="5000000"  data-condensed="5m">&pound;5,000,000</option>
-    <option value="5500000"  data-condensed="5.5m">&pound;5,500,000</option>
-    <option value="6000000"  data-condensed="6m">&pound;6,000,000</option>
-    <option value="6500000"  data-condensed="6.5m">&pound;6,500,000</option>
-    <option value="7000000"  data-condensed="7m">&pound;7,000,000</option>
-    <option value="7500000"  data-condensed="7.5m">&pound;7,500,000</option>
-    <option value="8000000"  data-condensed="8m">&pound;8,000,000</option>
-    <option value="8500000"  data-condensed="8.5m">&pound;8,500,000</option>
-    <option value="9000000"  data-condensed="9m">&pound;9,000,000</option>
-    <option value="9500000"  data-condensed="9.5m">&pound;9,500,000</option>
-    <option value="10000000"  data-condensed="10m">&pound;10,000,000</option>
-    <option value="12500000"  data-condensed="12.5m">&pound;12,500,000</option>
-    <option value="15000000"  data-condensed="15m">&pound;15,000,000</option>
+    <option value="10000"  data-condensed="10k">₱;10,000</option>
+    <option value="20000"  data-condensed="20k">₱;20,000</option>
+    <option value="30000"  data-condensed="30k">₱;30,000</option>
+    <option value="40000"  data-condensed="40k">₱;40,000</option>
+    <option value="50000"  data-condensed="50k">₱;50,000</option>
+    <option value="60000"  data-condensed="60k">₱;60,000</option>
+    <option value="70000"  data-condensed="70k">₱;70,000</option>
+    <option value="80000"  data-condensed="80k">₱;80,000</option>
+    <option value="90000"  data-condensed="90k">₱;90,000</option>
+    <option value="100000"  data-condensed="100k">₱;100,000</option>
+    <option value="110000"  data-condensed="110k">₱;110,000</option>
+    <option value="120000"  data-condensed="120k">₱;120,000</option>
+    <option value="125000"  data-condensed="125k">₱;125,000</option>
+    <option value="130000"  data-condensed="130k">₱;130,000</option>
+    <option value="140000"  data-condensed="140k">₱;140,000</option>
+    <option value="150000"  data-condensed="150k">₱;150,000</option>
+    <option value="160000"  data-condensed="160k">₱;160,000</option>
+    <option value="170000"  data-condensed="170k">₱;170,000</option>
+    <option value="180000"  data-condensed="180k">₱;180,000</option>
+    <option value="190000"  data-condensed="190k">₱;190,000</option>
+    <option value="200000"  data-condensed="200k">₱;200,000</option>
+    <option value="210000"  data-condensed="210k">₱;210,000</option>
+    <option value="220000"  data-condensed="220k">₱;220,000</option>
+    <option value="230000"  data-condensed="230k">₱;230,000</option>
+    <option value="240000"  data-condensed="240k">₱;240,000</option>
+    <option value="250000"  data-condensed="250k">₱;250,000</option>
+    <option value="275000"  data-condensed="275k">₱;275,000</option>
+    <option value="300000"  data-condensed="300k">₱;300,000</option>
+    <option value="325000"  data-condensed="325k">₱;325,000</option>
+    <option value="350000"  data-condensed="350k">₱;350,000</option>
+    <option value="375000"  data-condensed="375k">₱;375,000</option>
+    <option value="400000"  data-condensed="400k">₱;400,000</option>
+    <option value="425000"  data-condensed="425k">₱;425,000</option>
+    <option value="450000"  data-condensed="450k">₱;450,000</option>
+    <option value="475000"  data-condensed="475k">₱;475,000</option>
+    <option value="500000"  data-condensed="500k">₱;500,000</option>
+    <option value="550000"  data-condensed="550k">₱;550,000</option>
+    <option value="600000"  data-condensed="600k">₱;600,000</option>
+    <option value="650000"  data-condensed="650k">₱;650,000</option>
+    <option value="700000"  data-condensed="700k">₱;700,000</option>
+    <option value="750000"  data-condensed="750k">₱;750,000</option>
+    <option value="800000"  data-condensed="800k">₱;800,000</option>
+    <option value="850000"  data-condensed="850k">₱;850,000</option>
+    <option value="900000"  data-condensed="900k">₱;900,000</option>
+    <option value="950000"  data-condensed="950k">₱;950,000</option>
+    <option value="1000000"  data-condensed="1m">₱;1,000,000</option>
+    <option value="1100000"  data-condensed="1.1m">₱;1,100,000</option>
+    <option value="1200000"  data-condensed="1.2m">₱;1,200,000</option>
+    <option value="1300000"  data-condensed="1.3m">₱;1,300,000</option>
+    <option value="1400000"  data-condensed="1.4m">₱;1,400,000</option>
+    <option value="1500000"  data-condensed="1.5m">₱;1,500,000</option>
+    <option value="1600000"  data-condensed="1.6m">₱;1,600,000</option>
+    <option value="1700000"  data-condensed="1.7m">₱;1,700,000</option>
+    <option value="1800000"  data-condensed="1.8m">₱;1,800,000</option>
+    <option value="1900000"  data-condensed="1.9m">₱;1,900,000</option>
+    <option value="2000000"  data-condensed="2m">₱;2,000,000</option>
+    <option value="2100000"  data-condensed="2.1m">₱;2,100,000</option>
+    <option value="2200000"  data-condensed="2.2m">₱;2,200,000</option>
+    <option value="2300000"  data-condensed="2.3m">₱;2,300,000</option>
+    <option value="2400000"  data-condensed="2.4m">₱;2,400,000</option>
+    <option value="2500000"  data-condensed="2.5m">₱;2,500,000</option>
+    <option value="2750000"  data-condensed="2.75m">₱;2,750,000</option>
+    <option value="3000000"  data-condensed="3m">₱;3,000,000</option>
+    <option value="3250000"  data-condensed="3.25m">₱;3,250,000</option>
+    <option value="3500000"  data-condensed="3.5m">₱;3,500,000</option>
+    <option value="3750000"  data-condensed="3.75m">₱;3,750,000</option>
+    <option value="4000000"  data-condensed="4m">₱;4,000,000</option>
+    <option value="4250000"  data-condensed="4.25m">₱;4,250,000</option>
+    <option value="4500000"  data-condensed="4.5m">₱;4,500,000</option>
+    <option value="4750000"  data-condensed="4.75m">₱;4,750,000</option>
+    <option value="5000000"  data-condensed="5m">₱;5,000,000</option>
+    <option value="5500000"  data-condensed="5.5m">₱;5,500,000</option>
+    <option value="6000000"  data-condensed="6m">₱;6,000,000</option>
+    <option value="6500000"  data-condensed="6.5m">₱;6,500,000</option>
+    <option value="7000000"  data-condensed="7m">₱;7,000,000</option>
+    <option value="7500000"  data-condensed="7.5m">₱;7,500,000</option>
+    <option value="8000000"  data-condensed="8m">₱;8,000,000</option>
+    <option value="8500000"  data-condensed="8.5m">₱;8,500,000</option>
+    <option value="9000000"  data-condensed="9m">₱;9,000,000</option>
+    <option value="9500000"  data-condensed="9.5m">₱;9,500,000</option>
+    <option value="10000000"  data-condensed="10m">₱;10,000,000</option>
+    <option value="12500000"  data-condensed="12.5m">₱;12,500,000</option>
+    <option value="15000000"  data-condensed="15m">₱;15,000,000</option>
 
 
 
@@ -196,89 +196,89 @@
         <option value="">No max</option>
 
         
-    <option value="10000"  data-condensed="10k">&pound;10,000</option>
-    <option value="20000"  data-condensed="20k">&pound;20,000</option>
-    <option value="30000"  data-condensed="30k">&pound;30,000</option>
-    <option value="40000"  data-condensed="40k">&pound;40,000</option>
-    <option value="50000"  data-condensed="50k">&pound;50,000</option>
-    <option value="60000"  data-condensed="60k">&pound;60,000</option>
-    <option value="70000"  data-condensed="70k">&pound;70,000</option>
-    <option value="80000"  data-condensed="80k">&pound;80,000</option>
-    <option value="90000"  data-condensed="90k">&pound;90,000</option>
-    <option value="100000"  data-condensed="100k">&pound;100,000</option>
-    <option value="110000"  data-condensed="110k">&pound;110,000</option>
-    <option value="120000"  data-condensed="120k">&pound;120,000</option>
-    <option value="125000"  data-condensed="125k">&pound;125,000</option>
-    <option value="130000"  data-condensed="130k">&pound;130,000</option>
-    <option value="140000"  data-condensed="140k">&pound;140,000</option>
-    <option value="150000"  data-condensed="150k">&pound;150,000</option>
-    <option value="160000"  data-condensed="160k">&pound;160,000</option>
-    <option value="170000"  data-condensed="170k">&pound;170,000</option>
-    <option value="180000"  data-condensed="180k">&pound;180,000</option>
-    <option value="190000"  data-condensed="190k">&pound;190,000</option>
-    <option value="200000"  data-condensed="200k">&pound;200,000</option>
-    <option value="210000"  data-condensed="210k">&pound;210,000</option>
-    <option value="220000"  data-condensed="220k">&pound;220,000</option>
-    <option value="230000"  data-condensed="230k">&pound;230,000</option>
-    <option value="240000"  data-condensed="240k">&pound;240,000</option>
-    <option value="250000"  data-condensed="250k">&pound;250,000</option>
-    <option value="275000"  data-condensed="275k">&pound;275,000</option>
-    <option value="300000"  data-condensed="300k">&pound;300,000</option>
-    <option value="325000"  data-condensed="325k">&pound;325,000</option>
-    <option value="350000"  data-condensed="350k">&pound;350,000</option>
-    <option value="375000"  data-condensed="375k">&pound;375,000</option>
-    <option value="400000"  data-condensed="400k">&pound;400,000</option>
-    <option value="425000"  data-condensed="425k">&pound;425,000</option>
-    <option value="450000"  data-condensed="450k">&pound;450,000</option>
-    <option value="475000"  data-condensed="475k">&pound;475,000</option>
-    <option value="500000"  data-condensed="500k">&pound;500,000</option>
-    <option value="550000"  data-condensed="550k">&pound;550,000</option>
-    <option value="600000"  data-condensed="600k">&pound;600,000</option>
-    <option value="650000"  data-condensed="650k">&pound;650,000</option>
-    <option value="700000"  data-condensed="700k">&pound;700,000</option>
-    <option value="750000"  data-condensed="750k">&pound;750,000</option>
-    <option value="800000"  data-condensed="800k">&pound;800,000</option>
-    <option value="850000"  data-condensed="850k">&pound;850,000</option>
-    <option value="900000"  data-condensed="900k">&pound;900,000</option>
-    <option value="950000"  data-condensed="950k">&pound;950,000</option>
-    <option value="1000000"  data-condensed="1m">&pound;1,000,000</option>
-    <option value="1100000"  data-condensed="1.1m">&pound;1,100,000</option>
-    <option value="1200000"  data-condensed="1.2m">&pound;1,200,000</option>
-    <option value="1300000"  data-condensed="1.3m">&pound;1,300,000</option>
-    <option value="1400000"  data-condensed="1.4m">&pound;1,400,000</option>
-    <option value="1500000"  data-condensed="1.5m">&pound;1,500,000</option>
-    <option value="1600000"  data-condensed="1.6m">&pound;1,600,000</option>
-    <option value="1700000"  data-condensed="1.7m">&pound;1,700,000</option>
-    <option value="1800000"  data-condensed="1.8m">&pound;1,800,000</option>
-    <option value="1900000"  data-condensed="1.9m">&pound;1,900,000</option>
-    <option value="2000000"  data-condensed="2m">&pound;2,000,000</option>
-    <option value="2100000"  data-condensed="2.1m">&pound;2,100,000</option>
-    <option value="2200000"  data-condensed="2.2m">&pound;2,200,000</option>
-    <option value="2300000"  data-condensed="2.3m">&pound;2,300,000</option>
-    <option value="2400000"  data-condensed="2.4m">&pound;2,400,000</option>
-    <option value="2500000"  data-condensed="2.5m">&pound;2,500,000</option>
-    <option value="2750000"  data-condensed="2.75m">&pound;2,750,000</option>
-    <option value="3000000"  data-condensed="3m">&pound;3,000,000</option>
-    <option value="3250000"  data-condensed="3.25m">&pound;3,250,000</option>
-    <option value="3500000"  data-condensed="3.5m">&pound;3,500,000</option>
-    <option value="3750000"  data-condensed="3.75m">&pound;3,750,000</option>
-    <option value="4000000"  data-condensed="4m">&pound;4,000,000</option>
-    <option value="4250000"  data-condensed="4.25m">&pound;4,250,000</option>
-    <option value="4500000"  data-condensed="4.5m">&pound;4,500,000</option>
-    <option value="4750000"  data-condensed="4.75m">&pound;4,750,000</option>
-    <option value="5000000"  data-condensed="5m">&pound;5,000,000</option>
-    <option value="5500000"  data-condensed="5.5m">&pound;5,500,000</option>
-    <option value="6000000"  data-condensed="6m">&pound;6,000,000</option>
-    <option value="6500000"  data-condensed="6.5m">&pound;6,500,000</option>
-    <option value="7000000"  data-condensed="7m">&pound;7,000,000</option>
-    <option value="7500000"  data-condensed="7.5m">&pound;7,500,000</option>
-    <option value="8000000"  data-condensed="8m">&pound;8,000,000</option>
-    <option value="8500000"  data-condensed="8.5m">&pound;8,500,000</option>
-    <option value="9000000"  data-condensed="9m">&pound;9,000,000</option>
-    <option value="9500000"  data-condensed="9.5m">&pound;9,500,000</option>
-    <option value="10000000"  data-condensed="10m">&pound;10,000,000</option>
-    <option value="12500000"  data-condensed="12.5m">&pound;12,500,000</option>
-    <option value="15000000"  data-condensed="15m">&pound;15,000,000</option>
+    <option value="10000"  data-condensed="10k">₱;10,000</option>
+    <option value="20000"  data-condensed="20k">₱;20,000</option>
+    <option value="30000"  data-condensed="30k">₱;30,000</option>
+    <option value="40000"  data-condensed="40k">₱;40,000</option>
+    <option value="50000"  data-condensed="50k">₱;50,000</option>
+    <option value="60000"  data-condensed="60k">₱;60,000</option>
+    <option value="70000"  data-condensed="70k">₱;70,000</option>
+    <option value="80000"  data-condensed="80k">₱;80,000</option>
+    <option value="90000"  data-condensed="90k">₱;90,000</option>
+    <option value="100000"  data-condensed="100k">₱;100,000</option>
+    <option value="110000"  data-condensed="110k">₱;110,000</option>
+    <option value="120000"  data-condensed="120k">₱;120,000</option>
+    <option value="125000"  data-condensed="125k">₱;125,000</option>
+    <option value="130000"  data-condensed="130k">₱;130,000</option>
+    <option value="140000"  data-condensed="140k">₱;140,000</option>
+    <option value="150000"  data-condensed="150k">₱;150,000</option>
+    <option value="160000"  data-condensed="160k">₱;160,000</option>
+    <option value="170000"  data-condensed="170k">₱;170,000</option>
+    <option value="180000"  data-condensed="180k">₱;180,000</option>
+    <option value="190000"  data-condensed="190k">₱;190,000</option>
+    <option value="200000"  data-condensed="200k">₱;200,000</option>
+    <option value="210000"  data-condensed="210k">₱;210,000</option>
+    <option value="220000"  data-condensed="220k">₱;220,000</option>
+    <option value="230000"  data-condensed="230k">₱;230,000</option>
+    <option value="240000"  data-condensed="240k">₱;240,000</option>
+    <option value="250000"  data-condensed="250k">₱;250,000</option>
+    <option value="275000"  data-condensed="275k">₱;275,000</option>
+    <option value="300000"  data-condensed="300k">₱;300,000</option>
+    <option value="325000"  data-condensed="325k">₱;325,000</option>
+    <option value="350000"  data-condensed="350k">₱;350,000</option>
+    <option value="375000"  data-condensed="375k">₱;375,000</option>
+    <option value="400000"  data-condensed="400k">₱;400,000</option>
+    <option value="425000"  data-condensed="425k">₱;425,000</option>
+    <option value="450000"  data-condensed="450k">₱;450,000</option>
+    <option value="475000"  data-condensed="475k">₱;475,000</option>
+    <option value="500000"  data-condensed="500k">₱;500,000</option>
+    <option value="550000"  data-condensed="550k">₱;550,000</option>
+    <option value="600000"  data-condensed="600k">₱;600,000</option>
+    <option value="650000"  data-condensed="650k">₱;650,000</option>
+    <option value="700000"  data-condensed="700k">₱;700,000</option>
+    <option value="750000"  data-condensed="750k">₱;750,000</option>
+    <option value="800000"  data-condensed="800k">₱;800,000</option>
+    <option value="850000"  data-condensed="850k">₱;850,000</option>
+    <option value="900000"  data-condensed="900k">₱;900,000</option>
+    <option value="950000"  data-condensed="950k">₱;950,000</option>
+    <option value="1000000"  data-condensed="1m">₱;1,000,000</option>
+    <option value="1100000"  data-condensed="1.1m">₱;1,100,000</option>
+    <option value="1200000"  data-condensed="1.2m">₱;1,200,000</option>
+    <option value="1300000"  data-condensed="1.3m">₱;1,300,000</option>
+    <option value="1400000"  data-condensed="1.4m">₱;1,400,000</option>
+    <option value="1500000"  data-condensed="1.5m">₱;1,500,000</option>
+    <option value="1600000"  data-condensed="1.6m">₱;1,600,000</option>
+    <option value="1700000"  data-condensed="1.7m">₱;1,700,000</option>
+    <option value="1800000"  data-condensed="1.8m">₱;1,800,000</option>
+    <option value="1900000"  data-condensed="1.9m">₱;1,900,000</option>
+    <option value="2000000"  data-condensed="2m">₱;2,000,000</option>
+    <option value="2100000"  data-condensed="2.1m">₱;2,100,000</option>
+    <option value="2200000"  data-condensed="2.2m">₱;2,200,000</option>
+    <option value="2300000"  data-condensed="2.3m">₱;2,300,000</option>
+    <option value="2400000"  data-condensed="2.4m">₱;2,400,000</option>
+    <option value="2500000"  data-condensed="2.5m">₱;2,500,000</option>
+    <option value="2750000"  data-condensed="2.75m">₱;2,750,000</option>
+    <option value="3000000"  data-condensed="3m">₱;3,000,000</option>
+    <option value="3250000"  data-condensed="3.25m">₱;3,250,000</option>
+    <option value="3500000"  data-condensed="3.5m">₱;3,500,000</option>
+    <option value="3750000"  data-condensed="3.75m">₱;3,750,000</option>
+    <option value="4000000"  data-condensed="4m">₱;4,000,000</option>
+    <option value="4250000"  data-condensed="4.25m">₱;4,250,000</option>
+    <option value="4500000"  data-condensed="4.5m">₱;4,500,000</option>
+    <option value="4750000"  data-condensed="4.75m">₱;4,750,000</option>
+    <option value="5000000"  data-condensed="5m">₱;5,000,000</option>
+    <option value="5500000"  data-condensed="5.5m">₱;5,500,000</option>
+    <option value="6000000"  data-condensed="6m">₱;6,000,000</option>
+    <option value="6500000"  data-condensed="6.5m">₱;6,500,000</option>
+    <option value="7000000"  data-condensed="7m">₱;7,000,000</option>
+    <option value="7500000"  data-condensed="7.5m">₱;7,500,000</option>
+    <option value="8000000"  data-condensed="8m">₱;8,000,000</option>
+    <option value="8500000"  data-condensed="8.5m">₱;8,500,000</option>
+    <option value="9000000"  data-condensed="9m">₱;9,000,000</option>
+    <option value="9500000"  data-condensed="9.5m">₱;9,500,000</option>
+    <option value="10000000"  data-condensed="10m">₱;10,000,000</option>
+    <option value="12500000"  data-condensed="12.5m">₱;12,500,000</option>
+    <option value="15000000"  data-condensed="15m">₱;15,000,000</option>
 
 
 
@@ -300,127 +300,127 @@
         
 
 
-    <option value="100"  data-condensed="100">&pound;100 pcm</option>
+    <option value="100"  data-condensed="100">₱;100 pcm</option>
 
 
-    <option value="200"  data-condensed="200">&pound;200 pcm</option>
+    <option value="200"  data-condensed="200">₱;200 pcm</option>
 
 
-    <option value="300"  data-condensed="300">&pound;300 pcm</option>
+    <option value="300"  data-condensed="300">₱;300 pcm</option>
 
 
-    <option value="400"  data-condensed="400">&pound;400 pcm</option>
+    <option value="400"  data-condensed="400">₱;400 pcm</option>
 
 
-    <option value="500"  data-condensed="500">&pound;500 pcm</option>
+    <option value="500"  data-condensed="500">₱;500 pcm</option>
 
 
-    <option value="600"  data-condensed="600">&pound;600 pcm</option>
+    <option value="600"  data-condensed="600">₱;600 pcm</option>
 
 
-    <option value="700"  data-condensed="700">&pound;700 pcm</option>
+    <option value="700"  data-condensed="700">₱;700 pcm</option>
 
 
-    <option value="800"  data-condensed="800">&pound;800 pcm</option>
+    <option value="800"  data-condensed="800">₱;800 pcm</option>
 
 
-    <option value="900"  data-condensed="900">&pound;900 pcm</option>
+    <option value="900"  data-condensed="900">₱;900 pcm</option>
 
 
-    <option value="1000"  data-condensed="1k">&pound;1,000 pcm</option>
+    <option value="1000"  data-condensed="1k">₱;1,000 pcm</option>
 
 
-    <option value="1250"  data-condensed="1.25k">&pound;1,250 pcm</option>
+    <option value="1250"  data-condensed="1.25k">₱;1,250 pcm</option>
 
 
-    <option value="1500"  data-condensed="1.5k">&pound;1,500 pcm</option>
+    <option value="1500"  data-condensed="1.5k">₱;1,500 pcm</option>
 
 
-    <option value="1750"  data-condensed="1.75k">&pound;1,750 pcm</option>
+    <option value="1750"  data-condensed="1.75k">₱;1,750 pcm</option>
 
 
-    <option value="2000"  data-condensed="2k">&pound;2,000 pcm</option>
+    <option value="2000"  data-condensed="2k">₱;2,000 pcm</option>
 
 
-    <option value="2250"  data-condensed="2.25k">&pound;2,250 pcm</option>
+    <option value="2250"  data-condensed="2.25k">₱;2,250 pcm</option>
 
 
-    <option value="2500"  data-condensed="2.5k">&pound;2,500 pcm</option>
+    <option value="2500"  data-condensed="2.5k">₱;2,500 pcm</option>
 
 
-    <option value="2750"  data-condensed="2.75k">&pound;2,750 pcm</option>
+    <option value="2750"  data-condensed="2.75k">₱;2,750 pcm</option>
 
 
-    <option value="3000"  data-condensed="3k">&pound;3,000 pcm</option>
+    <option value="3000"  data-condensed="3k">₱;3,000 pcm</option>
 
 
-    <option value="3250"  data-condensed="3.25k">&pound;3,250 pcm</option>
+    <option value="3250"  data-condensed="3.25k">₱;3,250 pcm</option>
 
 
-    <option value="3500"  data-condensed="3.5k">&pound;3,500 pcm</option>
+    <option value="3500"  data-condensed="3.5k">₱;3,500 pcm</option>
 
 
-    <option value="3750"  data-condensed="3.75k">&pound;3,750 pcm</option>
+    <option value="3750"  data-condensed="3.75k">₱;3,750 pcm</option>
 
 
-    <option value="4000"  data-condensed="4k">&pound;4,000 pcm</option>
+    <option value="4000"  data-condensed="4k">₱;4,000 pcm</option>
 
 
-    <option value="4250"  data-condensed="4.25k">&pound;4,250 pcm</option>
+    <option value="4250"  data-condensed="4.25k">₱;4,250 pcm</option>
 
 
-    <option value="4500"  data-condensed="4.5k">&pound;4,500 pcm</option>
+    <option value="4500"  data-condensed="4.5k">₱;4,500 pcm</option>
 
 
-    <option value="4750"  data-condensed="4.75k">&pound;4,750 pcm</option>
+    <option value="4750"  data-condensed="4.75k">₱;4,750 pcm</option>
 
 
-    <option value="5000"  data-condensed="5k">&pound;5,000 pcm</option>
+    <option value="5000"  data-condensed="5k">₱;5,000 pcm</option>
 
 
-    <option value="5500"  data-condensed="5.5k">&pound;5,500 pcm</option>
+    <option value="5500"  data-condensed="5.5k">₱;5,500 pcm</option>
 
 
-    <option value="6000"  data-condensed="6k">&pound;6,000 pcm</option>
+    <option value="6000"  data-condensed="6k">₱;6,000 pcm</option>
 
 
-    <option value="6500"  data-condensed="6.5k">&pound;6,500 pcm</option>
+    <option value="6500"  data-condensed="6.5k">₱;6,500 pcm</option>
 
 
-    <option value="7000"  data-condensed="7k">&pound;7,000 pcm</option>
+    <option value="7000"  data-condensed="7k">₱;7,000 pcm</option>
 
 
-    <option value="7500"  data-condensed="7.5k">&pound;7,500 pcm</option>
+    <option value="7500"  data-condensed="7.5k">₱;7,500 pcm</option>
 
 
-    <option value="8000"  data-condensed="8k">&pound;8,000 pcm</option>
+    <option value="8000"  data-condensed="8k">₱;8,000 pcm</option>
 
 
-    <option value="8500"  data-condensed="8.5k">&pound;8,500 pcm</option>
+    <option value="8500"  data-condensed="8.5k">₱;8,500 pcm</option>
 
 
-    <option value="9000"  data-condensed="9k">&pound;9,000 pcm</option>
+    <option value="9000"  data-condensed="9k">₱;9,000 pcm</option>
 
 
-    <option value="9500"  data-condensed="9.5k">&pound;9,500 pcm</option>
+    <option value="9500"  data-condensed="9.5k">₱;9,500 pcm</option>
 
 
-    <option value="10000"  data-condensed="10k">&pound;10,000 pcm</option>
+    <option value="10000"  data-condensed="10k">₱;10,000 pcm</option>
 
 
-    <option value="12500"  data-condensed="12.5k">&pound;12,500 pcm</option>
+    <option value="12500"  data-condensed="12.5k">₱;12,500 pcm</option>
 
 
-    <option value="15000"  data-condensed="15k">&pound;15,000 pcm</option>
+    <option value="15000"  data-condensed="15k">₱;15,000 pcm</option>
 
 
-    <option value="17500"  data-condensed="17.5k">&pound;17,500 pcm</option>
+    <option value="17500"  data-condensed="17.5k">₱;17,500 pcm</option>
 
 
-    <option value="20000"  data-condensed="20k">&pound;20,000 pcm</option>
+    <option value="20000"  data-condensed="20k">₱;20,000 pcm</option>
 
 
-    <option value="25000"  data-condensed="25k">&pound;25,000 pcm</option>
+    <option value="25000"  data-condensed="25k">₱;25,000 pcm</option>
 
 
 
@@ -440,127 +440,127 @@
         
 
 
-    <option value="100"  data-condensed="100">&pound;100 pcm</option>
+    <option value="100"  data-condensed="100">₱;100 pcm</option>
 
 
-    <option value="200"  data-condensed="200">&pound;200 pcm</option>
+    <option value="200"  data-condensed="200">₱;200 pcm</option>
 
 
-    <option value="300"  data-condensed="300">&pound;300 pcm</option>
+    <option value="300"  data-condensed="300">₱;300 pcm</option>
 
 
-    <option value="400"  data-condensed="400">&pound;400 pcm</option>
+    <option value="400"  data-condensed="400">₱;400 pcm</option>
 
 
-    <option value="500"  data-condensed="500">&pound;500 pcm</option>
+    <option value="500"  data-condensed="500">₱;500 pcm</option>
 
 
-    <option value="600"  data-condensed="600">&pound;600 pcm</option>
+    <option value="600"  data-condensed="600">₱;600 pcm</option>
 
 
-    <option value="700"  data-condensed="700">&pound;700 pcm</option>
+    <option value="700"  data-condensed="700">₱;700 pcm</option>
 
 
-    <option value="800"  data-condensed="800">&pound;800 pcm</option>
+    <option value="800"  data-condensed="800">₱;800 pcm</option>
 
 
-    <option value="900"  data-condensed="900">&pound;900 pcm</option>
+    <option value="900"  data-condensed="900">₱;900 pcm</option>
 
 
-    <option value="1000"  data-condensed="1k">&pound;1,000 pcm</option>
+    <option value="1000"  data-condensed="1k">₱;1,000 pcm</option>
 
 
-    <option value="1250"  data-condensed="1.25k">&pound;1,250 pcm</option>
+    <option value="1250"  data-condensed="1.25k">₱;1,250 pcm</option>
 
 
-    <option value="1500"  data-condensed="1.5k">&pound;1,500 pcm</option>
+    <option value="1500"  data-condensed="1.5k">₱;1,500 pcm</option>
 
 
-    <option value="1750"  data-condensed="1.75k">&pound;1,750 pcm</option>
+    <option value="1750"  data-condensed="1.75k">₱;1,750 pcm</option>
 
 
-    <option value="2000"  data-condensed="2k">&pound;2,000 pcm</option>
+    <option value="2000"  data-condensed="2k">₱;2,000 pcm</option>
 
 
-    <option value="2250"  data-condensed="2.25k">&pound;2,250 pcm</option>
+    <option value="2250"  data-condensed="2.25k">₱;2,250 pcm</option>
 
 
-    <option value="2500"  data-condensed="2.5k">&pound;2,500 pcm</option>
+    <option value="2500"  data-condensed="2.5k">₱;2,500 pcm</option>
 
 
-    <option value="2750"  data-condensed="2.75k">&pound;2,750 pcm</option>
+    <option value="2750"  data-condensed="2.75k">₱;2,750 pcm</option>
 
 
-    <option value="3000"  data-condensed="3k">&pound;3,000 pcm</option>
+    <option value="3000"  data-condensed="3k">₱;3,000 pcm</option>
 
 
-    <option value="3250"  data-condensed="3.25k">&pound;3,250 pcm</option>
+    <option value="3250"  data-condensed="3.25k">₱;3,250 pcm</option>
 
 
-    <option value="3500"  data-condensed="3.5k">&pound;3,500 pcm</option>
+    <option value="3500"  data-condensed="3.5k">₱;3,500 pcm</option>
 
 
-    <option value="3750"  data-condensed="3.75k">&pound;3,750 pcm</option>
+    <option value="3750"  data-condensed="3.75k">₱;3,750 pcm</option>
 
 
-    <option value="4000"  data-condensed="4k">&pound;4,000 pcm</option>
+    <option value="4000"  data-condensed="4k">₱;4,000 pcm</option>
 
 
-    <option value="4250"  data-condensed="4.25k">&pound;4,250 pcm</option>
+    <option value="4250"  data-condensed="4.25k">₱;4,250 pcm</option>
 
 
-    <option value="4500"  data-condensed="4.5k">&pound;4,500 pcm</option>
+    <option value="4500"  data-condensed="4.5k">₱;4,500 pcm</option>
 
 
-    <option value="4750"  data-condensed="4.75k">&pound;4,750 pcm</option>
+    <option value="4750"  data-condensed="4.75k">₱;4,750 pcm</option>
 
 
-    <option value="5000"  data-condensed="5k">&pound;5,000 pcm</option>
+    <option value="5000"  data-condensed="5k">₱;5,000 pcm</option>
 
 
-    <option value="5500"  data-condensed="5.5k">&pound;5,500 pcm</option>
+    <option value="5500"  data-condensed="5.5k">₱;5,500 pcm</option>
 
 
-    <option value="6000"  data-condensed="6k">&pound;6,000 pcm</option>
+    <option value="6000"  data-condensed="6k">₱;6,000 pcm</option>
 
 
-    <option value="6500"  data-condensed="6.5k">&pound;6,500 pcm</option>
+    <option value="6500"  data-condensed="6.5k">₱;6,500 pcm</option>
 
 
-    <option value="7000"  data-condensed="7k">&pound;7,000 pcm</option>
+    <option value="7000"  data-condensed="7k">₱;7,000 pcm</option>
 
 
-    <option value="7500"  data-condensed="7.5k">&pound;7,500 pcm</option>
+    <option value="7500"  data-condensed="7.5k">₱;7,500 pcm</option>
 
 
-    <option value="8000"  data-condensed="8k">&pound;8,000 pcm</option>
+    <option value="8000"  data-condensed="8k">₱;8,000 pcm</option>
 
 
-    <option value="8500"  data-condensed="8.5k">&pound;8,500 pcm</option>
+    <option value="8500"  data-condensed="8.5k">₱;8,500 pcm</option>
 
 
-    <option value="9000"  data-condensed="9k">&pound;9,000 pcm</option>
+    <option value="9000"  data-condensed="9k">₱;9,000 pcm</option>
 
 
-    <option value="9500"  data-condensed="9.5k">&pound;9,500 pcm</option>
+    <option value="9500"  data-condensed="9.5k">₱;9,500 pcm</option>
 
 
-    <option value="10000"  data-condensed="10k">&pound;10,000 pcm</option>
+    <option value="10000"  data-condensed="10k">₱;10,000 pcm</option>
 
 
-    <option value="12500"  data-condensed="12.5k">&pound;12,500 pcm</option>
+    <option value="12500"  data-condensed="12.5k">₱;12,500 pcm</option>
 
 
-    <option value="15000"  data-condensed="15k">&pound;15,000 pcm</option>
+    <option value="15000"  data-condensed="15k">₱;15,000 pcm</option>
 
 
-    <option value="17500"  data-condensed="17.5k">&pound;17,500 pcm</option>
+    <option value="17500"  data-condensed="17.5k">₱;17,500 pcm</option>
 
 
-    <option value="20000"  data-condensed="20k">&pound;20,000 pcm</option>
+    <option value="20000"  data-condensed="20k">₱;20,000 pcm</option>
 
 
-    <option value="25000"  data-condensed="25k">&pound;25,000 pcm</option>
+    <option value="25000"  data-condensed="25k">₱;25,000 pcm</option>
 
 
 
@@ -580,127 +580,127 @@
         
 
 
-    <option value="25"  data-condensed="25">&pound;25 pw</option>
+    <option value="25"  data-condensed="25">₱;25 pw</option>
 
 
-    <option value="50"  data-condensed="50">&pound;50 pw</option>
+    <option value="50"  data-condensed="50">₱;50 pw</option>
 
 
-    <option value="75"  data-condensed="75">&pound;75 pw</option>
+    <option value="75"  data-condensed="75">₱;75 pw</option>
 
 
-    <option value="100"  data-condensed="100">&pound;100 pw</option>
+    <option value="100"  data-condensed="100">₱;100 pw</option>
 
 
-    <option value="125"  data-condensed="125">&pound;125 pw</option>
+    <option value="125"  data-condensed="125">₱;125 pw</option>
 
 
-    <option value="150"  data-condensed="150">&pound;150 pw</option>
+    <option value="150"  data-condensed="150">₱;150 pw</option>
 
 
-    <option value="175"  data-condensed="175">&pound;175 pw</option>
+    <option value="175"  data-condensed="175">₱;175 pw</option>
 
 
-    <option value="200"  data-condensed="200">&pound;200 pw</option>
+    <option value="200"  data-condensed="200">₱;200 pw</option>
 
 
-    <option value="225"  data-condensed="225">&pound;225 pw</option>
+    <option value="225"  data-condensed="225">₱;225 pw</option>
 
 
-    <option value="250"  data-condensed="250">&pound;250 pw</option>
+    <option value="250"  data-condensed="250">₱;250 pw</option>
 
 
-    <option value="275"  data-condensed="275">&pound;275 pw</option>
+    <option value="275"  data-condensed="275">₱;275 pw</option>
 
 
-    <option value="300"  data-condensed="300">&pound;300 pw</option>
+    <option value="300"  data-condensed="300">₱;300 pw</option>
 
 
-    <option value="325"  data-condensed="325">&pound;325 pw</option>
+    <option value="325"  data-condensed="325">₱;325 pw</option>
 
 
-    <option value="350"  data-condensed="350">&pound;350 pw</option>
+    <option value="350"  data-condensed="350">₱;350 pw</option>
 
 
-    <option value="375"  data-condensed="375">&pound;375 pw</option>
+    <option value="375"  data-condensed="375">₱;375 pw</option>
 
 
-    <option value="400"  data-condensed="400">&pound;400 pw</option>
+    <option value="400"  data-condensed="400">₱;400 pw</option>
 
 
-    <option value="425"  data-condensed="425">&pound;425 pw</option>
+    <option value="425"  data-condensed="425">₱;425 pw</option>
 
 
-    <option value="450"  data-condensed="450">&pound;450 pw</option>
+    <option value="450"  data-condensed="450">₱;450 pw</option>
 
 
-    <option value="475"  data-condensed="475">&pound;475 pw</option>
+    <option value="475"  data-condensed="475">₱;475 pw</option>
 
 
-    <option value="500"  data-condensed="500">&pound;500 pw</option>
+    <option value="500"  data-condensed="500">₱;500 pw</option>
 
 
-    <option value="550"  data-condensed="550">&pound;550 pw</option>
+    <option value="550"  data-condensed="550">₱;550 pw</option>
 
 
-    <option value="600"  data-condensed="600">&pound;600 pw</option>
+    <option value="600"  data-condensed="600">₱;600 pw</option>
 
 
-    <option value="650"  data-condensed="650">&pound;650 pw</option>
+    <option value="650"  data-condensed="650">₱;650 pw</option>
 
 
-    <option value="700"  data-condensed="700">&pound;700 pw</option>
+    <option value="700"  data-condensed="700">₱;700 pw</option>
 
 
-    <option value="750"  data-condensed="750">&pound;750 pw</option>
+    <option value="750"  data-condensed="750">₱;750 pw</option>
 
 
-    <option value="800"  data-condensed="800">&pound;800 pw</option>
+    <option value="800"  data-condensed="800">₱;800 pw</option>
 
 
-    <option value="850"  data-condensed="850">&pound;850 pw</option>
+    <option value="850"  data-condensed="850">₱;850 pw</option>
 
 
-    <option value="900"  data-condensed="900">&pound;900 pw</option>
+    <option value="900"  data-condensed="900">₱;900 pw</option>
 
 
-    <option value="950"  data-condensed="950">&pound;950 pw</option>
+    <option value="950"  data-condensed="950">₱;950 pw</option>
 
 
-    <option value="1000"  data-condensed="1k">&pound;1,000 pw</option>
+    <option value="1000"  data-condensed="1k">₱;1,000 pw</option>
 
 
-    <option value="1250"  data-condensed="1.25k">&pound;1,250 pw</option>
+    <option value="1250"  data-condensed="1.25k">₱;1,250 pw</option>
 
 
-    <option value="1500"  data-condensed="1.5k">&pound;1,500 pw</option>
+    <option value="1500"  data-condensed="1.5k">₱;1,500 pw</option>
 
 
-    <option value="1750"  data-condensed="1.75k">&pound;1,750 pw</option>
+    <option value="1750"  data-condensed="1.75k">₱;1,750 pw</option>
 
 
-    <option value="2000"  data-condensed="2k">&pound;2,000 pw</option>
+    <option value="2000"  data-condensed="2k">₱;2,000 pw</option>
 
 
-    <option value="2500"  data-condensed="2.5k">&pound;2,500 pw</option>
+    <option value="2500"  data-condensed="2.5k">₱;2,500 pw</option>
 
 
-    <option value="3000"  data-condensed="3k">&pound;3,000 pw</option>
+    <option value="3000"  data-condensed="3k">₱;3,000 pw</option>
 
 
-    <option value="3500"  data-condensed="3.5k">&pound;3,500 pw</option>
+    <option value="3500"  data-condensed="3.5k">₱;3,500 pw</option>
 
 
-    <option value="4000"  data-condensed="4k">&pound;4,000 pw</option>
+    <option value="4000"  data-condensed="4k">₱;4,000 pw</option>
 
 
-    <option value="4500"  data-condensed="4.5k">&pound;4,500 pw</option>
+    <option value="4500"  data-condensed="4.5k">₱;4,500 pw</option>
 
 
-    <option value="5000"  data-condensed="5k">&pound;5,000 pw</option>
+    <option value="5000"  data-condensed="5k">₱;5,000 pw</option>
 
 
-    <option value="7500"  data-condensed="7.5k">&pound;7,500 pw</option>
+    <option value="7500"  data-condensed="7.5k">₱;7,500 pw</option>
 
 
 
@@ -720,127 +720,127 @@
         
 
 
-    <option value="25"  data-condensed="25">&pound;25 pw</option>
+    <option value="25"  data-condensed="25">₱;25 pw</option>
 
 
-    <option value="50"  data-condensed="50">&pound;50 pw</option>
+    <option value="50"  data-condensed="50">₱;50 pw</option>
 
 
-    <option value="75"  data-condensed="75">&pound;75 pw</option>
+    <option value="75"  data-condensed="75">₱;75 pw</option>
 
 
-    <option value="100"  data-condensed="100">&pound;100 pw</option>
+    <option value="100"  data-condensed="100">₱;100 pw</option>
 
 
-    <option value="125"  data-condensed="125">&pound;125 pw</option>
+    <option value="125"  data-condensed="125">₱;125 pw</option>
 
 
-    <option value="150"  data-condensed="150">&pound;150 pw</option>
+    <option value="150"  data-condensed="150">₱;150 pw</option>
 
 
-    <option value="175"  data-condensed="175">&pound;175 pw</option>
+    <option value="175"  data-condensed="175">₱;175 pw</option>
 
 
-    <option value="200"  data-condensed="200">&pound;200 pw</option>
+    <option value="200"  data-condensed="200">₱;200 pw</option>
 
 
-    <option value="225"  data-condensed="225">&pound;225 pw</option>
+    <option value="225"  data-condensed="225">₱;225 pw</option>
 
 
-    <option value="250"  data-condensed="250">&pound;250 pw</option>
+    <option value="250"  data-condensed="250">₱;250 pw</option>
 
 
-    <option value="275"  data-condensed="275">&pound;275 pw</option>
+    <option value="275"  data-condensed="275">₱;275 pw</option>
 
 
-    <option value="300"  data-condensed="300">&pound;300 pw</option>
+    <option value="300"  data-condensed="300">₱;300 pw</option>
 
 
-    <option value="325"  data-condensed="325">&pound;325 pw</option>
+    <option value="325"  data-condensed="325">₱;325 pw</option>
 
 
-    <option value="350"  data-condensed="350">&pound;350 pw</option>
+    <option value="350"  data-condensed="350">₱;350 pw</option>
 
 
-    <option value="375"  data-condensed="375">&pound;375 pw</option>
+    <option value="375"  data-condensed="375">₱;375 pw</option>
 
 
-    <option value="400"  data-condensed="400">&pound;400 pw</option>
+    <option value="400"  data-condensed="400">₱;400 pw</option>
 
 
-    <option value="425"  data-condensed="425">&pound;425 pw</option>
+    <option value="425"  data-condensed="425">₱;425 pw</option>
 
 
-    <option value="450"  data-condensed="450">&pound;450 pw</option>
+    <option value="450"  data-condensed="450">₱;450 pw</option>
 
 
-    <option value="475"  data-condensed="475">&pound;475 pw</option>
+    <option value="475"  data-condensed="475">₱;475 pw</option>
 
 
-    <option value="500"  data-condensed="500">&pound;500 pw</option>
+    <option value="500"  data-condensed="500">₱;500 pw</option>
 
 
-    <option value="550"  data-condensed="550">&pound;550 pw</option>
+    <option value="550"  data-condensed="550">₱;550 pw</option>
 
 
-    <option value="600"  data-condensed="600">&pound;600 pw</option>
+    <option value="600"  data-condensed="600">₱;600 pw</option>
 
 
-    <option value="650"  data-condensed="650">&pound;650 pw</option>
+    <option value="650"  data-condensed="650">₱;650 pw</option>
 
 
-    <option value="700"  data-condensed="700">&pound;700 pw</option>
+    <option value="700"  data-condensed="700">₱;700 pw</option>
 
 
-    <option value="750"  data-condensed="750">&pound;750 pw</option>
+    <option value="750"  data-condensed="750">₱;750 pw</option>
 
 
-    <option value="800"  data-condensed="800">&pound;800 pw</option>
+    <option value="800"  data-condensed="800">₱;800 pw</option>
 
 
-    <option value="850"  data-condensed="850">&pound;850 pw</option>
+    <option value="850"  data-condensed="850">₱;850 pw</option>
 
 
-    <option value="900"  data-condensed="900">&pound;900 pw</option>
+    <option value="900"  data-condensed="900">₱;900 pw</option>
 
 
-    <option value="950"  data-condensed="950">&pound;950 pw</option>
+    <option value="950"  data-condensed="950">₱;950 pw</option>
 
 
-    <option value="1000"  data-condensed="1k">&pound;1,000 pw</option>
+    <option value="1000"  data-condensed="1k">₱;1,000 pw</option>
 
 
-    <option value="1250"  data-condensed="1.25k">&pound;1,250 pw</option>
+    <option value="1250"  data-condensed="1.25k">₱;1,250 pw</option>
 
 
-    <option value="1500"  data-condensed="1.5k">&pound;1,500 pw</option>
+    <option value="1500"  data-condensed="1.5k">₱;1,500 pw</option>
 
 
-    <option value="1750"  data-condensed="1.75k">&pound;1,750 pw</option>
+    <option value="1750"  data-condensed="1.75k">₱;1,750 pw</option>
 
 
-    <option value="2000"  data-condensed="2k">&pound;2,000 pw</option>
+    <option value="2000"  data-condensed="2k">₱;2,000 pw</option>
 
 
-    <option value="2500"  data-condensed="2.5k">&pound;2,500 pw</option>
+    <option value="2500"  data-condensed="2.5k">₱;2,500 pw</option>
 
 
-    <option value="3000"  data-condensed="3k">&pound;3,000 pw</option>
+    <option value="3000"  data-condensed="3k">₱;3,000 pw</option>
 
 
-    <option value="3500"  data-condensed="3.5k">&pound;3,500 pw</option>
+    <option value="3500"  data-condensed="3.5k">₱;3,500 pw</option>
 
 
-    <option value="4000"  data-condensed="4k">&pound;4,000 pw</option>
+    <option value="4000"  data-condensed="4k">₱;4,000 pw</option>
 
 
-    <option value="4500"  data-condensed="4.5k">&pound;4,500 pw</option>
+    <option value="4500"  data-condensed="4.5k">₱;4,500 pw</option>
 
 
-    <option value="5000"  data-condensed="5k">&pound;5,000 pw</option>
+    <option value="5000"  data-condensed="5k">₱;5,000 pw</option>
 
 
-    <option value="7500"  data-condensed="7.5k">&pound;7,500 pw</option>
+    <option value="7500"  data-condensed="7.5k">₱;7,500 pw</option>
 
 
 
@@ -1392,7 +1392,7 @@
 
     <div class="home-area-panel">
     <div class="zpg-container zpg-container--basic">
-        <button type="button" class="btn btn-home-area-toggle link js-home-area-toggle">Browse by city or town in the UK<i class="icon icon-down-open-1"></i></button>
+        <button type="button" class="btn btn-home-area-toggle link js-home-area-toggle">Browse by Region or City in PH<i class="icon icon-down-open-1"></i></button>
                 
         <div class="home-area-links is-hidden-js">
             <div class="clearfix">
@@ -1402,7 +1402,7 @@
                 
                 
                     <li class="area">
-                        <a class="home-area-details-toggle js-home-area-details-toggle icon icon-expand" href="/for-sale/property/aberdeen/">Aberdeen</a>    
+                        <a class="home-area-details-toggle js-home-area-details-toggle icon icon-expand" href="/for-sale/property/aberdeen/">National Capital Region (NCR)</a>    
                         <ul class="home-area-details is-hidden-js links-novisit">
                             <li><a class="home-area-details-link" href="/for-sale/property/aberdeen/">Property for sale in Aberdeen</a></li>
                             <li><a class="home-area-details-link" href="/for-sale/houses/aberdeen/">Aberdeen Houses for sale</a></li>
@@ -2112,7 +2112,7 @@
 
 
 
-        &pound;250,000
+        ₱;250,000
 
 
 
@@ -2152,7 +2152,7 @@
 
 
 
-        &pound;475 pcm
+        ₱;475 pcm
 
 
 
@@ -2192,7 +2192,7 @@
 
 
 
-        &pound;270,000
+        ₱;270,000
 
 
 
@@ -2245,8 +2245,8 @@
         </li>
         <li class="homepage-discover-item">
             <a class="homepage-discover-link" href="/discover/property-news/a-60-minute-commute-to-london-saves-homeowners-480k/">
-                <span class="homepage-discover-item-img-wrapper"><img class="homepage-discover-item-img" alt="" title="The 60-minute commute to London that saves homeowners &pound;480,000" src="https://c.zoocdn.com/dynimgs/cms/thumbnail/sidebar/16743?primary_brand=zoopla"></span>
-                <span class="homepage-discover-item-title">The 60-minute commute to London that saves homeowners &pound;480,000</span>
+                <span class="homepage-discover-item-img-wrapper"><img class="homepage-discover-item-img" alt="" title="The 60-minute commute to London that saves homeowners ₱;480,000" src="https://c.zoocdn.com/dynimgs/cms/thumbnail/sidebar/16743?primary_brand=zoopla"></span>
+                <span class="homepage-discover-item-title">The 60-minute commute to London that saves homeowners ₱;480,000</span>
                 <span class="homepage-discover-item-snippet">Ever wondered whether it&rsquo;s more cost-effective to buy property outside the capital and commute to work? Lloyds Bank says living further from London pays off in the long term.</span>
             </a>
         </li>

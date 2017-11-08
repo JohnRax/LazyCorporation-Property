@@ -52,7 +52,7 @@ data-taxonomy='{"action":"market_overview_property_type","section":"0","activity
                 <img class="market-panel-stat-element-icon" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAACACAMAAACr8R6wAAAAkFBMVEULCwtVA3FnCohVA3FnCohVA3FnCohVA3FVA3FnCohVA3FnCohUBnRVA3FnCohVA3FVA3FVA3FVA3FnCohVA3FhCoRnCohVA3FnCohVA3FUC3dVA3FnCohVA3FZCntnCohwGpF8M5uJPqKNTKeZXKqibLGqe7a0jLu8nL/GqcfOuM7Yxtnh1OHr4uv18fX/////N9SkAAAAHXRSTlMAEBAgIDAwQFBQYGBwcHCAj5+vr7+/v8/P3+/v71rzW4EAAAIVSURBVHgB7NhBq+IwEMDxoYgglV5EKVI2adKYJjGZ7//tdld2H9Vn7cQO+A75X4UfQxLnUPhb1bRidW1Twb92nWCp28GtWrBV3+YTjO0Aqo4T7CpoBGsNtLxgC4K5Aq6pgAUsoDJ2DCE4a3W/HjQ+4aQ4qjWgtAm/dR3eBoeITwvqPXDE2cw7oMMXOTo49cgiARxwIZcHyoRLmSzQ4WIxB+yRUA5oH4axWuthjHiXzgAjTkrm4aXnT6juPDW5K49fhQzwgpOGmdvSGaCbeGHmNyMywPDquZkrInotckCcJAU9ChgFMxgKWMBPgIO19m4VPqayQBVxMS/pYJ+QUKCDDkkZMoi0PDcYPjeh5z5DlZDQNeMdaoIYZAYopFn6p+iybQpYwAIipvA0f5FUsL94pJQGEqgCUkuKvrFpeQLoMScCiD8ejMh8hhaR95aFy/IIoFCWlpHl+2EBC1jA+Qp44PUOUPOCNcCJ0zsBwKbj87oN/GnLJnZbuFUdebxjBf/bn3+t7rz/XTodpToUwkAYniDi4YLoFUGCdP/b7GtLe5pM/BYw5OEPXqT1OLQS3rWzvYYP+eDIlfFNj+513CgamdOCW/IfOE/wy7W5uX3BIIPZGwJb3e7z/uCSpm9vJnhVz3kVhLz4lg2NfDWDUblmBEgPtsxWrgVhMsiW+SPtV+Mqn4JzdfMt25WTr2ZpfMuGrN5XewIKYqlgdLocvAAAAABJRU5ErkJggg==">
                 <span class="market-panel-stat-element-header">Average price paid</span>
                 <span class="market-panel-stat-element-value js-market-stats-average-price"
-data-value-all="277723,272879,270391,255034,238925,181897" data-value-S="255201,247550,243654,225365,212060,162136" data-value-T="241131,233212,229141,216222,200262,145127" data-value-F="242622,249717,251907,246287,225190,175304" data-value-D="395107,386078,379907,351070,336945,265120"                 >&pound;270,391</span>
+data-value-all="277723,272879,270391,255034,238925,181897" data-value-S="255201,247550,243654,225365,212060,162136" data-value-T="241131,233212,229141,216222,200262,145127" data-value-F="242622,249717,251907,246287,225190,175304" data-value-D="395107,386078,379907,351070,336945,265120"                 >₱;270,391</span>
             </span>
 
             <span class="market-panel-stat-element">
@@ -66,7 +66,7 @@ data-value-all="116402,324490,767455,4449651,7987932,20191361" data-value-S="325
                 <img class="market-panel-stat-element-icon" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAACgCAMAAADNRTnEAAAArlBMVEUAAABMDGdpFYxMDGdpFYxMDGdWE2VpFYxMDGdMDGdMDGdMDGdpFYxMDGdpFYxMDGdpFYxMDGdMDGdMDGdpFYxMDGdpFYxMDGdXFGlMDGdpFYxMDGddFIteHHdnFotnIJRpFYxzJopzM4d2OXh8QoJ+RXuFUomIU4aPYJOccJqmfqSujLGwja64mrq5m7jCqMTDqcLMt87Nt8zWxdjXxtfg1OLh1OHr4uv18fX///8u9UsgAAAAG3RSTlMAEBAgIDAwMEBQYHBwgICPj5+vv7/Pz9/f7+9+3PKFAAACN0lEQVR4AezbXW+yMBwF8KYhekMIF6YxBKW+6PNs6NAxB/3+X2yuvEwW54r0j7qcc3du/F3A0YQKK+K4QlqPcB32Fe5Lovi8MoZCkkUMSyOQhAm0woUkjeBHxJfE8RlzJHkc5tIjLhP0iGCyhwC5GCBAgAABAgQIkOd3ZZp8t7oKmWnCPE/XIDvVLvmiPTJTbbNpj/xrjbwB2YcmWeadkHlolHUnJDRM1geigAAB8luiTohKDZLhq54cAQIkT4sc1KWadUOWYZlEf2hd97pGde2CpGGVebOuP+u2rv/tIOEZJG5WIOTXpHl3xeZ3F9FODo+w+CTWSVVRt0U9FDWrq81rMr/B4v/+GLH4RNefFp92QhT9LyP94hsTT8qJx0XSb9Xq4qOqbrVhe/HR3S0eyPIMklha/Pri4qsa2Vl8ppr18RYPhOwJ90sPz+rV4i5PHbSyMWfy1xXOtG6PAAECBAgQIECAjOiNUT//4eYBtRFwxjxqxGPHCFpDMPr3EARn1Io2ynhTGmLqsZMMxpOpdWEyHpwaH63UUaqEMBSD4RxEqEoptyLl0P3v874PzmSc5NtBHv4A0aZdC7wqOa1GwY3o06gH7m22MbnhrTinxRn45DCMyQPEcskzFnB1Siq+sgpjrhWEXmbDA2Xo/XHxZ7kRZku9Py76wxsh5DJzx8+W09MfUS03wsvU+9PHVFiUoc/gogn9qWXyG9HL7AG3PR03wst0zyA3w/vTyxRvhKmkP491PO/vH+HwlcP3IRLpAAAAAElFTkSuQmCC">
                 <span class="market-panel-stat-element-header">Current average value</span>
                 <span class="market-panel-stat-element-value js-market-stats-average-value"
-data-value-all="303232,303232,303232,303232,303232,303232" data-value-S="265541,265541,265541,265541,265541,265541" data-value-T="245580,245580,245580,245580,245580,245580" data-value-F="294956,294956,294956,294956,294956,294956" data-value-D="432098,432098,432098,432098,432098,432098"                 >&pound;303,232</span>
+data-value-all="303232,303232,303232,303232,303232,303232" data-value-S="265541,265541,265541,265541,265541,265541" data-value-T="245580,245580,245580,245580,245580,245580" data-value-F="294956,294956,294956,294956,294956,294956" data-value-D="432098,432098,432098,432098,432098,432098"                 >₱;303,232</span>
                 <span class="market-panel-stat-element-small"><a class="jqModal" href="/tips/zoopla_estimate/" data-tip="/ajax/tips/zindex/" rel="nofollow">(Zoopla Zed-Index)</a></span>
             </span>
 
@@ -74,7 +74,7 @@ data-value-all="303232,303232,303232,303232,303232,303232" data-value-S="265541,
                 <img class="market-panel-stat-element-icon" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAACgCAMAAADNRTnEAAAAulBMVEUAAABBFE5sAZtBFE5sAZtBFE5PE1lsAZtBFE5BFE5BFE5BFE5sAZtBFE5sAZtBFE5sAZtBFE5BFE5BFE5sAZtBFE5sAZtBFE5RE2NBFE5sAZtBFE5aEnhsAZttAZp2KIN4MH15EJl7NH6BRH+IUYaIU4aQXI6YZ5agc5+nfqevia+wja63lLe/n7/DqcLHqsfNs87PtdDXwNjfy+Dl1Ofm1ef48Pr58/v69Pv79vz8+P38+f3+/f7////3ZBjsAAAAG3RSTlMAEBAgIDAwMEBQYHBwgICPj5+vv7/Pz9/f7+9+3PKFAAACZklEQVR4AezazY6bMBTFcctCnQ1CLEbWCM0NYyeBAKEU3E4/2rz/axXbHbkV00UKp6rS+18lq9/iSLlEQoSSVNHmqTQRMZkTqFy+GHeKYKm7H0ZBwAqvSEXQlJyRnMDlQiQELxEpHkmFwiNKED5ihBFGGGGEEUYYYYQRRm4Weeq67gmNHC+Xy/EfQiqNR4ydajgyWGsHg0VqOzeVUERPDjkRFGmdMRAU2VvXHouMzmgJipz86hqKlH71mqDI2Rk9QZGwuoEi2q/eEA6Jq0OR0roqgiJ9WH0zRGtadLCuchukrJrBDvp3P4zrEVOfR+tbKI2dG/Va5MunDwF4TTHWdaC1yMfn9/Y1Ja5+ptXI54gslCqcw/XIV4+MbWX0EJXF6uuQb8/vmkNJLt3+qviv4+bPXUGZzOIcboUslCGsviWyUGr/QQOQqMRzCEBelD48BCGQqPj2MCQqDeEQOgVj0kiEqngOcYhXesIiXjFwhKrmFv+YMsIII2+7qzr+AXJ13f+AwGOEEUYYYYQRRhhhhBFGbgC5xxv3f+cdblmgjUIKkaGRTMwprKGESyqoIQVcCYYv22GIXSZ+6s3D425z4fHheyt1kOIwDMVgWI+QwUkwZhyCMb7/PbtuSau60ncDLX794UmUYVcCr1IfVi3hRtRhVAP3NtuYvuGtOIfFGfjkMIzpB4jlkmcs4PKQZHxlFcZcKzixzIIJqen9cfFvuRFm63p/XNT5G+GEMvuOny2npz8iW25EL5P3p4/JsEhNn8FFUfsTyuQ3opdZA257d9wIL9M9g9yM3h8vU7wRJpP+PNY2398Daa2HRvlsPhsAAAAASUVORK5CYII=">
                 <span class="market-panel-stat-element-header">Value change</span>
                 <span class="market-panel-stat-element-value js-market-stats-value-change market-panel-stat-value-change-up"
-data-value-all="-1903,789,1779,65691,43628,217723" data-value-S="-455,2832,4356,60819,41725,191538" data-value-T="-1490,1916,981,54232,32262,179329" data-value-F="2788,5177,2391,65792,37375,212170" data-value-D="-1313,7115,1631,94433,61182,303250"                 >&pound;1,779</span>
+data-value-all="-1903,789,1779,65691,43628,217723" data-value-S="-455,2832,4356,60819,41725,191538" data-value-T="-1490,1916,981,54232,32262,179329" data-value-F="2788,5177,2391,65792,37375,212170" data-value-D="-1313,7115,1631,94433,61182,303250"                 >₱;1,779</span>
                 <span class="market-panel-stat-element-small js-market-stats-value-change-pct market-panel-stat-value-change-up"
 data-value-all="-0.62,0.26,0.59,27.66,16.81,254.62" data-value-S="-0.17,1.08,1.67,29.71,18.64,258.82" data-value-T="-0.60,0.79,0.40,28.34,15.12,270.68" data-value-F="0.95,1.79,0.82,28.71,14.51,256.29" data-value-D="-0.30,1.67,0.38,27.97,16.50,235.35"                 >▲ 0.59%</span>
             </span>
@@ -112,13 +112,13 @@ data-value-all="-0.62,0.26,0.59,27.66,16.81,254.62" data-value-S="-0.17,1.08,1.6
             <th class="property-table__current-value">Avg. current value</th>
 
 
-            <th class="property-table__sqft">Avg. &pound; per sq ft.</th>
+            <th class="property-table__sqft">Avg. ₱; per sq ft.</th>
 
 
             <th class="property-table__bednum">Avg. # beds</th>
 
 
-            <th class="property-table__price"><span>Avg. &pound; paid (last 12m)</span></th>
+            <th class="property-table__price"><span>Avg. ₱; paid (last 12m)</span></th>
 
 
         </tr>
@@ -132,16 +132,16 @@ data-value-all="-0.62,0.26,0.59,27.66,16.81,254.62" data-value-S="-0.17,1.08,1.6
             <td>Detached</td>
 
 
-            <td><strong class="zoopla">&pound;432,098</strong></td>
+            <td><strong class="zoopla">₱;432,098</strong></td>
 
 
-            <td>&pound;356</td>
+            <td>₱;356</td>
 
 
             <td>3.7</td>
 
 
-            <td>&pound;379,384</td>
+            <td>₱;379,384</td>
 
 
         </tr>
@@ -153,16 +153,16 @@ data-value-all="-0.62,0.26,0.59,27.66,16.81,254.62" data-value-S="-0.17,1.08,1.6
             <td>Semi-detached</td>
 
 
-            <td><strong class="zoopla">&pound;265,541</strong></td>
+            <td><strong class="zoopla">₱;265,541</strong></td>
 
 
-            <td>&pound;432</td>
+            <td>₱;432</td>
 
 
             <td>3.2</td>
 
 
-            <td>&pound;243,489</td>
+            <td>₱;243,489</td>
 
 
         </tr>
@@ -174,16 +174,16 @@ data-value-all="-0.62,0.26,0.59,27.66,16.81,254.62" data-value-S="-0.17,1.08,1.6
             <td>Terraced</td>
 
 
-            <td><strong class="zoopla">&pound;245,580</strong></td>
+            <td><strong class="zoopla">₱;245,580</strong></td>
 
 
-            <td>&pound;575</td>
+            <td>₱;575</td>
 
 
             <td>3.5</td>
 
 
-            <td>&pound;228,265</td>
+            <td>₱;228,265</td>
 
 
         </tr>
@@ -195,16 +195,16 @@ data-value-all="-0.62,0.26,0.59,27.66,16.81,254.62" data-value-S="-0.17,1.08,1.6
             <td>Flats</td>
 
 
-            <td><strong class="zoopla">&pound;294,956</strong></td>
+            <td><strong class="zoopla">₱;294,956</strong></td>
 
 
-            <td>&pound;780</td>
+            <td>₱;780</td>
 
 
             <td>1.9</td>
 
 
-            <td>&pound;250,319</td>
+            <td>₱;250,319</td>
 
 
         </tr>
@@ -264,7 +264,7 @@ data-value-all="-0.62,0.26,0.59,27.66,16.81,254.62" data-value-S="-0.17,1.08,1.6
 
 
 
-Average: <strong class="price">&pound;399,390</strong>
+Average: <strong class="price">₱;399,390</strong>
 
 
 <table class="stripe asking-price-table property-table">
@@ -338,7 +338,7 @@ Average: <strong class="price">&pound;399,390</strong>
 
                     <td>
 
-                        <strong class="price">&pound;174,309</strong><br>
+                        <strong class="price">₱;174,309</strong><br>
 
                         (<a  href="/for-sale/houses/1-bedroom/uk/">3,615</a>)
                         
@@ -350,7 +350,7 @@ Average: <strong class="price">&pound;399,390</strong>
 
                     <td>
 
-                        <strong class="price">&pound;194,726</strong><br>
+                        <strong class="price">₱;194,726</strong><br>
 
                         (<a  href="/for-sale/houses/2-bedrooms/uk/">44,361</a>)
                         
@@ -362,7 +362,7 @@ Average: <strong class="price">&pound;399,390</strong>
 
                     <td>
 
-                        <strong class="price">&pound;283,928</strong><br>
+                        <strong class="price">₱;283,928</strong><br>
 
                         (<a  href="/for-sale/houses/3-bedrooms/uk/">94,911</a>)
                         
@@ -374,7 +374,7 @@ Average: <strong class="price">&pound;399,390</strong>
 
                     <td>
 
-                        <strong class="price">&pound;472,765</strong><br>
+                        <strong class="price">₱;472,765</strong><br>
 
                         (<a  href="/for-sale/houses/4-bedrooms/uk/">56,828</a>)
                         
@@ -386,7 +386,7 @@ Average: <strong class="price">&pound;399,390</strong>
 
                     <td>
 
-                        <strong class="price">&pound;760,714</strong><br>
+                        <strong class="price">₱;760,714</strong><br>
 
                         (<a  href="/for-sale/houses/5-bedrooms/uk/">19,170</a>)
                         
@@ -407,7 +407,7 @@ Average: <strong class="price">&pound;399,390</strong>
 
                     <td>
 
-                        <strong class="price">&pound;269,374</strong><br>
+                        <strong class="price">₱;269,374</strong><br>
 
                         (<a  href="/for-sale/flats/1-bedroom/uk/">28,742</a>)
                         
@@ -419,7 +419,7 @@ Average: <strong class="price">&pound;399,390</strong>
 
                     <td>
 
-                        <strong class="price">&pound;391,760</strong><br>
+                        <strong class="price">₱;391,760</strong><br>
 
                         (<a  href="/for-sale/flats/2-bedrooms/uk/">48,967</a>)
                         
@@ -431,7 +431,7 @@ Average: <strong class="price">&pound;399,390</strong>
 
                     <td>
 
-                        <strong class="price">&pound;891,135</strong><br>
+                        <strong class="price">₱;891,135</strong><br>
 
                         (<a  href="/for-sale/flats/3-bedrooms/uk/">9,856</a>)
                         
@@ -443,7 +443,7 @@ Average: <strong class="price">&pound;399,390</strong>
 
                     <td>
 
-                        <strong class="price">&pound;1,507,224</strong><br>
+                        <strong class="price">₱;1,507,224</strong><br>
 
                         (<a  href="/for-sale/flats/4-bedrooms/uk/">1,256</a>)
                         
@@ -455,7 +455,7 @@ Average: <strong class="price">&pound;399,390</strong>
 
                     <td>
 
-                        <strong class="price">&pound;2,238,733</strong><br>
+                        <strong class="price">₱;2,238,733</strong><br>
 
                         (<a  href="/for-sale/flats/5-bedrooms/uk/">245</a>)
                         
@@ -474,7 +474,7 @@ Average: <strong class="price">&pound;399,390</strong>
 
                     <td>
 
-                        <strong class="price">&pound;258,753</strong><br>
+                        <strong class="price">₱;258,753</strong><br>
 
                         (<a  href="/for-sale/property/1-bedroom/uk/">32,357</a>)
 
@@ -485,7 +485,7 @@ Average: <strong class="price">&pound;399,390</strong>
 
                     <td>
 
-                        <strong class="price">&pound;298,105</strong><br>
+                        <strong class="price">₱;298,105</strong><br>
 
                         (<a  href="/for-sale/property/2-bedrooms/uk/">93,328</a>)
 
@@ -496,7 +496,7 @@ Average: <strong class="price">&pound;399,390</strong>
 
                     <td>
 
-                        <strong class="price">&pound;341,052</strong><br>
+                        <strong class="price">₱;341,052</strong><br>
 
                         (<a  href="/for-sale/property/3-bedrooms/uk/">104,767</a>)
 
@@ -507,7 +507,7 @@ Average: <strong class="price">&pound;399,390</strong>
 
                     <td>
 
-                        <strong class="price">&pound;495,134</strong><br>
+                        <strong class="price">₱;495,134</strong><br>
 
                         (<a  href="/for-sale/property/4-bedrooms/uk/">58,084</a>)
 
@@ -518,7 +518,7 @@ Average: <strong class="price">&pound;399,390</strong>
 
                     <td>
 
-                        <strong class="price">&pound;779,365</strong><br>
+                        <strong class="price">₱;779,365</strong><br>
 
                         (<a  href="/for-sale/property/5-bedrooms/uk/">19,415</a>)
 
@@ -539,7 +539,7 @@ Average: <strong class="price">&pound;399,390</strong>
     
 
 
-Average: <strong class="price">&pound;1,684 pcm</strong>
+Average: <strong class="price">₱;1,684 pcm</strong>
 
 
 <table class="stripe asking-price-table property-table">
@@ -613,7 +613,7 @@ Average: <strong class="price">&pound;1,684 pcm</strong>
 
                     <td>
 
-                        <strong class="price">&pound;618 pcm</strong><br>
+                        <strong class="price">₱;618 pcm</strong><br>
 
                         (<a  href="/to-rent/houses/1-bedroom/uk/">8,183</a>)
                         
@@ -625,7 +625,7 @@ Average: <strong class="price">&pound;1,684 pcm</strong>
 
                     <td>
 
-                        <strong class="price">&pound;872 pcm</strong><br>
+                        <strong class="price">₱;872 pcm</strong><br>
 
                         (<a  href="/to-rent/houses/2-bedrooms/uk/">13,894</a>)
                         
@@ -637,7 +637,7 @@ Average: <strong class="price">&pound;1,684 pcm</strong>
 
                     <td>
 
-                        <strong class="price">&pound;1,232 pcm</strong><br>
+                        <strong class="price">₱;1,232 pcm</strong><br>
 
                         (<a  href="/to-rent/houses/3-bedrooms/uk/">19,906</a>)
                         
@@ -649,7 +649,7 @@ Average: <strong class="price">&pound;1,684 pcm</strong>
 
                     <td>
 
-                        <strong class="price">&pound;1,952 pcm</strong><br>
+                        <strong class="price">₱;1,952 pcm</strong><br>
 
                         (<a  href="/to-rent/houses/4-bedrooms/uk/">11,735</a>)
                         
@@ -661,7 +661,7 @@ Average: <strong class="price">&pound;1,684 pcm</strong>
 
                     <td>
 
-                        <strong class="price">&pound;2,778 pcm</strong><br>
+                        <strong class="price">₱;2,778 pcm</strong><br>
 
                         (<a  href="/to-rent/houses/5-bedrooms/uk/">5,756</a>)
                         
@@ -682,7 +682,7 @@ Average: <strong class="price">&pound;1,684 pcm</strong>
 
                     <td>
 
-                        <strong class="price">&pound;1,109 pcm</strong><br>
+                        <strong class="price">₱;1,109 pcm</strong><br>
 
                         (<a  href="/to-rent/flats/1-bedroom/uk/">36,302</a>)
                         
@@ -694,7 +694,7 @@ Average: <strong class="price">&pound;1,684 pcm</strong>
 
                     <td>
 
-                        <strong class="price">&pound;1,691 pcm</strong><br>
+                        <strong class="price">₱;1,691 pcm</strong><br>
 
                         (<a  href="/to-rent/flats/2-bedrooms/uk/">41,964</a>)
                         
@@ -706,7 +706,7 @@ Average: <strong class="price">&pound;1,684 pcm</strong>
 
                     <td>
 
-                        <strong class="price">&pound;3,216 pcm</strong><br>
+                        <strong class="price">₱;3,216 pcm</strong><br>
 
                         (<a  href="/to-rent/flats/3-bedrooms/uk/">10,555</a>)
                         
@@ -718,7 +718,7 @@ Average: <strong class="price">&pound;1,684 pcm</strong>
 
                     <td>
 
-                        <strong class="price">&pound;4,192 pcm</strong><br>
+                        <strong class="price">₱;4,192 pcm</strong><br>
 
                         (<a  href="/to-rent/flats/4-bedrooms/uk/">2,473</a>)
                         
@@ -730,7 +730,7 @@ Average: <strong class="price">&pound;1,684 pcm</strong>
 
                     <td>
 
-                        <strong class="price">&pound;7,938 pcm</strong><br>
+                        <strong class="price">₱;7,938 pcm</strong><br>
 
                         (<a  href="/to-rent/flats/5-bedrooms/uk/">779</a>)
                         
@@ -749,7 +749,7 @@ Average: <strong class="price">&pound;1,684 pcm</strong>
 
                     <td>
 
-                        <strong class="price">&pound;1,019 pcm</strong><br>
+                        <strong class="price">₱;1,019 pcm</strong><br>
 
                         (<a  href="/to-rent/property/1-bedroom/uk/">44,485</a>)
 
@@ -760,7 +760,7 @@ Average: <strong class="price">&pound;1,684 pcm</strong>
 
                     <td>
 
-                        <strong class="price">&pound;1,487 pcm</strong><br>
+                        <strong class="price">₱;1,487 pcm</strong><br>
 
                         (<a  href="/to-rent/property/2-bedrooms/uk/">55,858</a>)
 
@@ -771,7 +771,7 @@ Average: <strong class="price">&pound;1,684 pcm</strong>
 
                     <td>
 
-                        <strong class="price">&pound;1,919 pcm</strong><br>
+                        <strong class="price">₱;1,919 pcm</strong><br>
 
                         (<a  href="/to-rent/property/3-bedrooms/uk/">30,461</a>)
 
@@ -782,7 +782,7 @@ Average: <strong class="price">&pound;1,684 pcm</strong>
 
                     <td>
 
-                        <strong class="price">&pound;2,342 pcm</strong><br>
+                        <strong class="price">₱;2,342 pcm</strong><br>
 
                         (<a  href="/to-rent/property/4-bedrooms/uk/">14,208</a>)
 
@@ -793,7 +793,7 @@ Average: <strong class="price">&pound;1,684 pcm</strong>
 
                     <td>
 
-                        <strong class="price">&pound;3,393 pcm</strong><br>
+                        <strong class="price">₱;3,393 pcm</strong><br>
 
                         (<a  href="/to-rent/property/5-bedrooms/uk/">6,535</a>)
 
@@ -853,7 +853,7 @@ Average: <strong class="price">&pound;1,684 pcm</strong>
 
                                     <td><a href="/home-values/virginia-water/">Virginia Water</a></td>
 
-                                    <td class="center zindex"><strong>&pound;1,415,348</strong></td>
+                                    <td class="center zindex"><strong>₱;1,415,348</strong></td>
 
                                 </tr>
 
@@ -863,7 +863,7 @@ Average: <strong class="price">&pound;1,684 pcm</strong>
 
                                     <td><a href="/home-values/surrey/cobham/">Cobham</a></td>
 
-                                    <td class="center zindex"><strong>&pound;1,177,747</strong></td>
+                                    <td class="center zindex"><strong>₱;1,177,747</strong></td>
 
                                 </tr>
 
@@ -873,7 +873,7 @@ Average: <strong class="price">&pound;1,684 pcm</strong>
 
                                     <td><a href="/home-values/keston/">Keston</a></td>
 
-                                    <td class="center zindex"><strong>&pound;1,134,485</strong></td>
+                                    <td class="center zindex"><strong>₱;1,134,485</strong></td>
 
                                 </tr>
 
@@ -883,7 +883,7 @@ Average: <strong class="price">&pound;1,684 pcm</strong>
 
                                     <td><a href="/home-values/beaconsfield/">Beaconsfield</a></td>
 
-                                    <td class="center zindex"><strong>&pound;1,122,111</strong></td>
+                                    <td class="center zindex"><strong>₱;1,122,111</strong></td>
 
                                 </tr>
 
@@ -893,7 +893,7 @@ Average: <strong class="price">&pound;1,684 pcm</strong>
 
                                     <td><a href="/home-values/esher/">Esher</a></td>
 
-                                    <td class="center zindex"><strong>&pound;1,079,919</strong></td>
+                                    <td class="center zindex"><strong>₱;1,079,919</strong></td>
 
                                 </tr>
 
