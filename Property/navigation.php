@@ -1070,7 +1070,7 @@ November  2, 2017
                 <a tabindex="-1"
                     data-ga-category="Navbar" data-ga-action="more_Latest property news" data-ga-label="/tracking/homepage/"
          class="subnav__link--news" href="/discover/property-news/a-60-minute-commute-to-london-saves-homeowners-480k/">
-                    The 60-minute commute to London that saves homeowners £480,000
+                    The 60-minute commute to London that saves homeowners ₱480,000
                 </a>
 
                 <time class="subnav__item-date" datetime="2017-10-31 11:00:00">
